@@ -37,14 +37,14 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 ${recentItems.map(item => `
   <url>
-    <loc>${SITE_BASE_URL}/news/${item.slug}</loc>
+    <loc>${SITE_BASE_URL}/news/${item.fields.slug}</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>${item.lastPublished || item.createdOn}</news:publication_date>
-      <news:title><![CDATA[${item.name}]]></news:title>
+      <news:title><![CDATA[${item.fields.name}]]></news:title>
     </news:news>
   </url>`).join("\n")}
 </urlset>`;
