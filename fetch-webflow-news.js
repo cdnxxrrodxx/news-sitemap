@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 
 const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
 const COLLECTION_ID = "6654c88f22981ae93116a79f";
-const SITE_BASE_URL = "https://www.heavyweightboxing.com;
+const SITE_BASE_URL = "https://www.heavyweightboxing.com";
 
 (async () => {
   const response = await fetch(`https://api.webflow.com/collections/${COLLECTION_ID}/items?limit=100`, {
