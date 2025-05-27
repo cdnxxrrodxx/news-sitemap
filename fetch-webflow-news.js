@@ -19,34 +19,42 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
 
   const items = resJson.items;
 
-  if (!items) {
-    console.error("❌ 'items' is missing in the API response. Exiting...");
+  if (!items || !Array.isArray(items)) {
+    console.error("❌ No items array returned from Webflow API. Exiting.");
     process.exit(1);
   }
 
   const now = Date.now();
-  const cutoff = now - 1000 * 60 * 60 * 48; // 48 hours ago
+  const cutoff = now - 1000 * 60 * 60 * 48; // 48 hours
 
   const recentItems = items.filter(item => {
     const published = new Date(item.lastPublished || item.createdOn);
     return published.getTime() > cutoff;
   });
 
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-${recentItems.map(item => `
+  const xmlItems = recentItems.map(item => {
+    const slug = item.fields?.slug || "undefined";
+    const title = item.fields?.name || "Untitled Article";
+    const pubDate = item.lastPublished || item.createdOn;
+
+    return `
   <url>
-    <loc>${SITE_BASE_URL}/news/${item.fields.slug}</loc>
+    <loc>${SITE_BASE_URL}/news/${slug}</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>${item.lastPublished || item.createdOn}</news:publication_date>
-      <news:title><![CDATA[${item.fields.name}]]></news:title>
+      <news:publication_date>${pubDate}</news:publication_date>
+      <news:title><![CDATA[${title}]]></news:title>
     </news:news>
-  </url>`).join("\n")}
+  </url>`;
+  }).join("\n");
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+${xmlItems}
 </urlset>`;
 
   fs.writeFileSync("news-sitemap.xml", xml);
