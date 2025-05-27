@@ -33,8 +33,8 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
   });
 
   const xmlItems = recentItems.map(item => {
-    const slug = item.fields?.slug || "undefined";
-    const title = item.fields?.name || "Untitled Article";
+    const slug = item.fieldData?.slug || "undefined";
+    const title = item.fieldData?.["google-title"] || item.fieldData?.name || "Untitled Article";
     const pubDate = item.lastPublished || item.createdOn;
 
     return `
