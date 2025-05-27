@@ -10,7 +10,8 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
   const response = await fetch(`https://api.webflow.com/collections/${COLLECTION_ID}/items?limit=100`, {
     headers: {
       "Authorization": `Bearer ${WEBFLOW_API_TOKEN}`,
-      "accept-version": "1.0.0"
+      "accept-version": "1.0.0",
+      "Content-Type": "application/json"
     }
   });
 
@@ -19,6 +20,13 @@ console.log("Status Code:", response.status);
 const resJson = await response.json();
 console.log("Response:", JSON.stringify(resJson, null, 2));
 
+
+  const { items } = resJson;
+
+if (!items) {
+  console.error("❌ 'items' is missing in the API response. Exiting...");
+  process.exit(1);
+}
 //
 
   const now = Date.now();
