@@ -1,7 +1,8 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 
-const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
+//const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
+const WEBFLOW_API_TOKEN = "04dbf78c391fc7603cc32d07b5e752ad476f5a715f2fba827932cb162b06bdde";
 const COLLECTION_ID = "6654c88f22981ae93116a79f";
 const SITE_BASE_URL = "https://www.heavyweightboxing.com";
 
