@@ -13,7 +13,12 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
     }
   });
 
-  const { items } = await response.json();
+  //const { items } = await response.json();
+  const resJson = await response.json();
+console.log(JSON.stringify(resJson, null, 2));
+
+const { items } = resJson;
+//
 
   const now = Date.now();
   const cutoff = now - 1000 * 60 * 60 * 48; // 48 hours ago
