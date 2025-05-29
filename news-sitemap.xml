@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-mike-balogun-result</loc>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-26T19:25:43.734Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Stops Mike Balogun in Two Rounds | Glasgow Fight Recap]]></news:title>
+      <news:publication_date>2025-05-29T09:58:45.278Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-interview-glasgow-scotland</loc>
+    <loc>https://www.heavyweightboxing.com/news/british-heavyweights</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-26T19:27:04.629Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Eyes Stardom Ahead of Balogun Clash in Glasgow]]></news:title>
+      <news:publication_date>2025-05-29T09:57:24.212Z</news:publication_date>
+      <news:title><![CDATA[British-Heavyweights]]></news:title>
     </news:news>
   </url>
 
@@ -33,44 +33,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-26T19:25:43.734Z</news:publication_date>
+      <news:publication_date>2025-05-28T21:53:52.860Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore vs. Stanley Wright Set for IBF USBA Title Clash June 6 ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-aliev-european-heavyweight-hamburg-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-26T19:28:00.321Z</news:publication_date>
-      <news:title><![CDATA[Xhoxhaj vs. Aliev: European Heavyweight Title Fight Set for Hamburg ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/gene-tunney-fighting-marine-champion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-26T19:28:00.321Z</news:publication_date>
-      <news:title><![CDATA[Gene Tunney: The Heavyweight Champion Who Beat Dempsey and Retired on ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/martin-bakole-efe-ajagba-result</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-26T19:25:43.734Z</news:publication_date>
-      <news:title><![CDATA[Martin Bakole vs Efe Ajagba Ends in Majority Draw in Riyadh]]></news:title>
     </news:news>
   </url>
 
@@ -81,7 +45,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-26T19:26:54.807Z</news:publication_date>
+      <news:publication_date>2025-05-28T21:54:24.024Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley vs Justis Huni Set for June 7 at Portman Road]]></news:title>
     </news:news>
   </url>
