@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/don-king-wba-kubrat-pulev-michael-hunter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-29T17:08:59.885Z</news:publication_date>
+      <news:title><![CDATA[Don King Wins $1.1M Purse Bid to Promote WBA Regular Title Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
     <news:news>
       <news:publication>
@@ -15,14 +27,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/british-heavyweights</loc>
+    <loc>https://www.heavyweightboxing.com/news/resurgence-british-heavyweight-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-29T09:57:24.212Z</news:publication_date>
-      <news:title><![CDATA[British-Heavyweights]]></news:title>
+      <news:publication_date>2025-05-29T16:37:51.950Z</news:publication_date>
+      <news:title><![CDATA[Top 5 British Heavyweights in 2025: Dubois, Fury, Wardley, and More]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-mike-balogun-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-29T17:06:48.660Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Stops Mike Balogun in Two Rounds | Glasgow Fight Recap]]></news:title>
     </news:news>
   </url>
 
@@ -45,7 +69,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-28T21:54:24.024Z</news:publication_date>
+      <news:publication_date>2025-05-29T17:06:48.660Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley vs Justis Huni Set for June 7 at Portman Road]]></news:title>
     </news:news>
   </url>
