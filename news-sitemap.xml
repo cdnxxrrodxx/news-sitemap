@@ -15,18 +15,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-29T09:58:45.278Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/resurgence-british-heavyweight-boxing</loc>
     <news:news>
       <news:publication>
@@ -51,14 +39,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/brandon-moore-stanley-wright-verona-ny</loc>
+    <loc>https://www.heavyweightboxing.com/news/dubois-usyk-wembley-fight</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-28T21:53:52.860Z</news:publication_date>
-      <news:title><![CDATA[Brandon Moore vs. Stanley Wright Set for IBF USBA Title Clash June 6 ]]></news:title>
+      <news:publication_date>2025-05-31T10:46:14.601Z</news:publication_date>
+      <news:title><![CDATA[Wembley Thunder Returns – Oleksandr Usyk vs. Daniel Dubois]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/the-evolving-soundtrack-of-heavyweight-boxing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-30T15:00:37.158Z</news:publication_date>
+      <news:title><![CDATA[AI Music Is Changing the Sound of Heavyweight Boxing Forever]]></news:title>
     </news:news>
   </url>
 
