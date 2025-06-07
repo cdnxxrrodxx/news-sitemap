@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
+    <loc>https://www.heavyweightboxing.com/news/moore-defeats-wright-technical-decision-turning-stone</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-04T15:29:44.343Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
+      <news:publication_date>2025-06-07T04:30:50.285Z</news:publication_date>
+      <news:title><![CDATA[Brandon Moore Defeats Stanley Wright by Technical Decision ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-insights-with-pin-up-sport-betting-power</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-06T19:44:06.668Z</news:publication_date>
+      <news:title><![CDATA[Heavyweight Boxing Insights: Understanding the Stakes ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/brandon-moore-stanley-wright-verona-ny</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T04:22:10.646Z</news:publication_date>
+      <news:title><![CDATA[Brandon Moore vs. Stanley Wright Set for IBF USBA Title Clash June 6 ]]></news:title>
     </news:news>
   </url>
 </urlset>
