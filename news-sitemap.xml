@@ -3,13 +3,49 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-saudi-arabia-august-16</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-08T01:35:00.137Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs. Dillian Whyte Likely August 16 in Riyadh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-justis-huni-ko10-ipswich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-08T04:45:11.542Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley Stuns Justis Huni with KO in Round 10]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-defeats-aliev-ebu-title-hamburg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T23:51:34.629Z</news:publication_date>
+      <news:title><![CDATA[Labinot Xhoxhaj Defeats Mourad Aliev in European Title Bout]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/moore-defeats-wright-technical-decision-turning-stone</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-07T04:30:50.285Z</news:publication_date>
+      <news:publication_date>2025-06-07T14:30:32.393Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore Defeats Stanley Wright by Technical Decision ]]></news:title>
     </news:news>
   </url>
@@ -27,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T20:27:24.869Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/brandon-moore-stanley-wright-verona-ny</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,30 @@
       </news:publication>
       <news:publication_date>2025-06-07T04:22:10.646Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore vs. Stanley Wright Set for IBF USBA Title Clash June 6 ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-dave-allen-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T20:19:22.125Z</news:publication_date>
+      <news:title><![CDATA[ Dave Allen vs. Johnny Fisher 2: Allen Scores Shocking TKO in London ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-aliev-european-heavyweight-hamburg-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-07T22:55:36.256Z</news:publication_date>
+      <news:title><![CDATA[Xhoxhaj vs. Aliev: European Heavyweight Title Fight Set for Hamburg ]]></news:title>
     </news:news>
   </url>
 </urlset>
