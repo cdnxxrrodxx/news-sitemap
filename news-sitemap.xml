@@ -3,13 +3,37 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-preview-newark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-11T11:21:29.568Z</news:publication_date>
+      <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-history-modern-champions-mostbet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-10T22:59:02.697Z</news:publication_date>
+      <news:title><![CDATA[Heavyweight Boxing: History, Legends, and Modern Stars]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-insights-with-pin-up-sport-betting-power</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-10T10:59:07.723Z</news:publication_date>
+      <news:publication_date>2025-06-11T11:28:08.015Z</news:publication_date>
       <news:title><![CDATA[Heavyweight Boxing Insights: Understanding the Stakes ]]></news:title>
     </news:news>
   </url>
