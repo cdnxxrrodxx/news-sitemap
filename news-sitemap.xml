@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-11T16:17:08.371Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Lerena Set for Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-preview-newark</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       </news:publication>
       <news:publication_date>2025-06-10T22:59:02.697Z</news:publication_date>
       <news:title><![CDATA[Heavyweight Boxing: History, Legends, and Modern Stars]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-defeats-aliev-ebu-title-hamburg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-11T16:17:08.371Z</news:publication_date>
+      <news:title><![CDATA[Labinot Xhoxhaj Defeats Mourad Aliev in European Title Bout]]></news:title>
     </news:news>
   </url>
 
