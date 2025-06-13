@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-david-adeleye-saudi-arabia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-13T10:34:16.313Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic vs David Adeleye Set for August 16 in Riyadh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-dillian-whyte-riyadh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-12T22:47:03.944Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
     <news:news>
       <news:publication>
@@ -15,26 +39,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-preview-newark</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-saudi-arabia-august-16</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-11T11:21:29.568Z</news:publication_date>
-      <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
+      <news:publication_date>2025-06-12T21:47:44.262Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs. Dillian Whyte Likely August 16 in Riyadh]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-history-modern-champions-mostbet</loc>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-justis-huni-ko10-ipswich</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-10T22:59:02.697Z</news:publication_date>
-      <news:title><![CDATA[Heavyweight Boxing: History, Legends, and Modern Stars]]></news:title>
+      <news:publication_date>2025-06-12T22:47:03.944Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley Stuns Justis Huni with KO in Round 10]]></news:title>
     </news:news>
   </url>
 
@@ -51,14 +75,38 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-insights-with-pin-up-sport-betting-power</loc>
+    <loc>https://www.heavyweightboxing.com/news/moore-defeats-wright-technical-decision-turning-stone</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-11T11:28:08.015Z</news:publication_date>
-      <news:title><![CDATA[Heavyweight Boxing Insights: Understanding the Stakes ]]></news:title>
+      <news:publication_date>2025-06-12T22:47:03.944Z</news:publication_date>
+      <news:title><![CDATA[Brandon Moore Defeats Stanley Wright by Technical Decision ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/don-king-wba-kubrat-pulev-michael-hunter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-13T00:50:18.461Z</news:publication_date>
+      <news:title><![CDATA[Don King Wins $1.1M Purse Bid to Promote WBA Regular Title Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/alexis-barriere-roney-hines-msg-new-york-city</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-12T21:48:43.403Z</news:publication_date>
+      <news:title><![CDATA[Alexis Barrière to Face Roney Hines for WBC Continental Americas]]></news:title>
     </news:news>
   </url>
 </urlset>
