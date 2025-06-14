@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-dubois-wembley-showdown-july-19</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-13T16:38:06.466Z</news:publication_date>
+      <news:title><![CDATA[Usyk vs Dubois 2: Undisputed Heavyweight Clash Set for July 19]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-david-adeleye-saudi-arabia</loc>
     <news:news>
       <news:publication>
@@ -21,20 +33,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-12T22:47:03.944Z</news:publication_date>
+      <news:publication_date>2025-06-13T14:43:57.284Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
+    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-history-modern-champions-mostbet</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-11T16:17:08.371Z</news:publication_date>
-      <news:title><![CDATA[Lawrence Okolie vs Lerena Set for Usyk-Dubois Undercard]]></news:title>
+      <news:publication_date>2025-06-13T12:50:57.388Z</news:publication_date>
+      <news:title><![CDATA[Heavyweight Boxing: History, Legends, and Modern Stars]]></news:title>
     </news:news>
   </url>
 
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-06-12T22:47:03.944Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley Stuns Justis Huni with KO in Round 10]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-defeats-aliev-ebu-title-hamburg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-11T16:17:08.371Z</news:publication_date>
-      <news:title><![CDATA[Labinot Xhoxhaj Defeats Mourad Aliev in European Title Bout]]></news:title>
     </news:news>
   </url>
 
