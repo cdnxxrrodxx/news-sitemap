@@ -3,38 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-heavyweight-knockout-madison-square-garden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-15T15:28:57.792Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana Shocks MSG With Frightening Knockout Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/usyk-dubois-wembley-showdown-july-19</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-13T16:38:06.466Z</news:publication_date>
+      <news:publication_date>2025-06-16T11:12:25.641Z</news:publication_date>
       <news:title><![CDATA[Usyk vs Dubois 2: Undisputed Heavyweight Clash Set for July 19]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-dillian-whyte-riyadh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-13T14:43:57.284Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-history-modern-champions-mostbet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-13T12:50:57.388Z</news:publication_date>
-      <news:title><![CDATA[Heavyweight Boxing: History, Legends, and Modern Stars]]></news:title>
     </news:news>
   </url>
 
@@ -45,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-14T15:52:46.385Z</news:publication_date>
+      <news:publication_date>2025-06-15T15:28:57.792Z</news:publication_date>
       <news:title><![CDATA[Labinot Xhoxhaj Defeats Mourad Aliev in European Title Bout]]></news:title>
     </news:news>
   </url>
