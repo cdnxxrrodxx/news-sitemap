@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/novytskyi-vs-sirenko-heavyweight-title-clash-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-16T14:24:49.439Z</news:publication_date>
+      <news:title><![CDATA[Novytskyi vs. Sirenko Set for July 19 on Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-heavyweight-knockout-madison-square-garden</loc>
     <news:news>
       <news:publication>
@@ -21,8 +33,44 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-16T11:12:25.641Z</news:publication_date>
+      <news:publication_date>2025-06-16T13:18:11.068Z</news:publication_date>
       <news:title><![CDATA[Usyk vs Dubois 2: Undisputed Heavyweight Clash Set for July 19]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-david-adeleye-saudi-arabia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-16T18:51:16.697Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic vs David Adeleye Set for August 16 in Riyadh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-16T14:22:29.508Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Lerena Set for Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-preview-newark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-16T16:05:59.627Z</news:publication_date>
+      <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
     </news:news>
   </url>
 
@@ -45,7 +93,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-14T15:54:29.132Z</news:publication_date>
+      <news:publication_date>2025-06-16T16:04:20.814Z</news:publication_date>
       <news:title><![CDATA[Alexis Barrière to Face Roney Hines for WBC Continental Americas]]></news:title>
     </news:news>
   </url>
