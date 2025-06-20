@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-heavyweight-knockout-madison-square-garden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-19T17:24:12.092Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana Shocks MSG With Frightening Knockout Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/usyk-dubois-wembley-showdown-july-19</loc>
     <news:news>
       <news:publication>
@@ -21,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-18T14:36:19.576Z</news:publication_date>
+      <news:publication_date>2025-06-19T17:24:12.092Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
     </news:news>
   </url>
