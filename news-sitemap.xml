@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-22T02:16:06.894Z</news:publication_date>
+      <news:publication_date>2025-06-22T17:06:53.293Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba Stops Siwy in Eight, Stays Undefeated (16-0)]]></news:title>
     </news:news>
   </url>
@@ -23,6 +23,42 @@
       </news:publication>
       <news:publication_date>2025-06-22T02:14:43.295Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-justis-huni-ko10-ipswich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-22T17:06:53.293Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley Stuns Justis Huni with KO in Round 10]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-im-back-on-my-mission</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-22T17:20:24.820Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Opens Up: Shoulder Recovery, Mental Reset & His Mission]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-ricardo-brown-june-27-quebec</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-22T17:08:13.281Z</news:publication_date>
+      <news:title><![CDATA[Makhmudov vs. Brown: Heavyweight Slugfest Set for June 27 in Quebec]]></news:title>
     </news:news>
   </url>
 </urlset>
