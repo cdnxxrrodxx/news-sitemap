@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-splits-with-promoter-krassyuk-before-dubois-rematch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-23T23:01:31.706Z</news:publication_date>
+      <news:title><![CDATA[Usyk Splits with Longtime Promoter Krassyuk Before Dubois Rematch]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-fight-report-2025</loc>
     <news:news>
       <news:publication>
@@ -15,14 +27,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-preview-newark</loc>
+    <loc>https://www.heavyweightboxing.com/news/novytskyi-vs-sirenko-heavyweight-title-clash-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-22T02:14:43.295Z</news:publication_date>
-      <news:title><![CDATA[Damian Knyba vs. Marcin Siwy: Heavyweight Preview & Prediction]]></news:title>
+      <news:publication_date>2025-06-23T22:57:42.642Z</news:publication_date>
+      <news:title><![CDATA[Novytskyi vs. Sirenko Set for July 19 on Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-dillian-whyte-riyadh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-23T22:57:42.642Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
     </news:news>
   </url>
 
