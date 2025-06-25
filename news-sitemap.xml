@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-23T23:01:31.706Z</news:publication_date>
+      <news:publication_date>2025-06-25T11:14:35.259Z</news:publication_date>
       <news:title><![CDATA[Usyk Splits with Longtime Promoter Krassyuk Before Dubois Rematch]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/damian-knyba-vs-marcin-siwy-fight-report-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-22T17:06:53.293Z</news:publication_date>
-      <news:title><![CDATA[Damian Knyba Stops Siwy in Eight, Stays Undefeated (16-0)]]></news:title>
     </news:news>
   </url>
 
@@ -51,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-justis-huni-ko10-ipswich</loc>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-22T17:06:53.293Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley Stuns Justis Huni with KO in Round 10]]></news:title>
+      <news:publication_date>2025-06-25T11:15:28.387Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
     </news:news>
   </url>
 
@@ -69,20 +57,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-22T17:20:24.820Z</news:publication_date>
+      <news:publication_date>2025-06-25T11:14:35.259Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder Opens Up: Shoulder Recovery, Mental Reset & His Mission]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-ricardo-brown-june-27-quebec</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-22T17:08:13.281Z</news:publication_date>
-      <news:title><![CDATA[Makhmudov vs. Brown: Heavyweight Slugfest Set for June 27 in Quebec]]></news:title>
     </news:news>
   </url>
 </urlset>
