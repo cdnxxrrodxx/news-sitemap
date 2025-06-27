@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-splits-with-promoter-krassyuk-before-dubois-rematch</loc>
+    <loc>https://www.heavyweightboxing.com/news/wilder-splits-with-malik-scott-before-herndon-fight</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-25T11:14:35.259Z</news:publication_date>
-      <news:title><![CDATA[Usyk Splits with Longtime Promoter Krassyuk Before Dubois Rematch]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-preview-prediction</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-25T11:15:28.387Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley vs. Justis Huni Set for June 7: WBA Interim Title ]]></news:title>
+      <news:publication_date>2025-06-26T13:17:23.719Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Splits with Trainer Malik Scott Before Herndon Fight]]></news:title>
     </news:news>
   </url>
 
@@ -45,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-25T21:23:12.401Z</news:publication_date>
+      <news:publication_date>2025-06-26T12:50:26.178Z</news:publication_date>
       <news:title><![CDATA[Makhmudov vs. Brown: Heavyweight Slugfest Set for June 27 in Quebec]]></news:title>
     </news:news>
   </url>
