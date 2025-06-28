@@ -3,26 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/makhmudov-destroys-brown-tko-round-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-28T04:35:50.791Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/wilder-stops-herndon-in-seven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-28T05:12:44.862Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Stops Tyrell Herndon in 7th Round Comeback Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/wilder-splits-with-malik-scott-before-herndon-fight</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-26T13:17:23.719Z</news:publication_date>
+      <news:publication_date>2025-06-28T04:36:11.210Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder Splits with Trainer Malik Scott Before Herndon Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-im-back-on-my-mission</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-25T21:24:00.808Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder Opens Up: Shoulder Recovery, Mental Reset & His Mission]]></news:title>
     </news:news>
   </url>
 
@@ -33,7 +45,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-06-26T12:50:26.178Z</news:publication_date>
+      <news:publication_date>2025-06-28T02:33:27.963Z</news:publication_date>
       <news:title><![CDATA[Makhmudov vs. Brown: Heavyweight Slugfest Set for June 27 in Quebec]]></news:title>
     </news:news>
   </url>
