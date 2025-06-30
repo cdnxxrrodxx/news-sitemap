@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/makhmudov-destroys-brown-tko-round-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-28T04:35:50.791Z</news:publication_date>
-      <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/wilder-stops-herndon-in-seven</loc>
     <news:news>
       <news:publication>
@@ -23,30 +11,6 @@
       </news:publication>
       <news:publication_date>2025-06-28T17:05:15.954Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder Stops Tyrell Herndon in 7th Round Comeback Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/wilder-splits-with-malik-scott-before-herndon-fight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-28T04:36:11.210Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder Splits with Trainer Malik Scott Before Herndon Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-ricardo-brown-june-27-quebec</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-28T02:33:27.963Z</news:publication_date>
-      <news:title><![CDATA[Makhmudov vs. Brown: Heavyweight Slugfest Set for June 27 in Quebec]]></news:title>
     </news:news>
   </url>
 </urlset>
