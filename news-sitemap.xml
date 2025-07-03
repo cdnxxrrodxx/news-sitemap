@@ -2,4 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/longest-heavyweight-title-reigns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-02T22:18:06.995Z</news:publication_date>
+      <news:title><![CDATA[Boxing’s Longest Heavyweight Title Reigns – Legends of the Ring]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/sirenko-vs-dacres-wembley-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-02T23:00:42.109Z</news:publication_date>
+      <news:title><![CDATA[Sirenko vs. Dacres Set for Usyk–Dubois Undercard at Wembley]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/wilder-stops-herndon-in-seven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-02T23:00:42.109Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Stops Tyrell Herndon in 7th Round Comeback Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/novytskyi-vs-sirenko-heavyweight-title-clash-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-02T22:56:32.917Z</news:publication_date>
+      <news:title><![CDATA[Novytskyi vs. Sirenko Set for July 19 on Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-david-adeleye-saudi-arabia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-02T23:00:42.109Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic vs David Adeleye Set for August 16 in Riyadh]]></news:title>
+    </news:news>
+  </url>
 </urlset>
