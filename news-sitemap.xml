@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-rebuilds-after-allen-loss</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-03T12:35:36.148Z</news:publication_date>
+      <news:title><![CDATA[Johnny Fisher Vows Comeback After Dave Allen Loss]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/longest-heavyweight-title-reigns</loc>
     <news:news>
       <news:publication>
