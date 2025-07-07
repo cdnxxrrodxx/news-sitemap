@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-rebuilds-after-allen-loss</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-05T02:18:32.520Z</news:publication_date>
-      <news:title><![CDATA[Johnny Fisher Vows Comeback After Tough Dave Allen Loss]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/sirenko-vs-dacres-wembley-2024</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-05T02:18:32.520Z</news:publication_date>
-      <news:title><![CDATA[Sirenko vs. Dacres Set for Usyk–Dubois Undercard at Wembley]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-splits-with-promoter-krassyuk-before-dubois-rematch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-05T02:18:32.520Z</news:publication_date>
-      <news:title><![CDATA[Usyk Splits with Longtime Promoter Krassyuk Before Dubois Rematch]]></news:title>
-    </news:news>
-  </url>
 </urlset>
