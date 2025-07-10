@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-rebuilds-after-allen-loss</loc>
+    <loc>https://www.heavyweightboxing.com/news/emanuel-odiase-eyes-world-title-by-2027</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-07T12:29:41.240Z</news:publication_date>
-      <news:title><![CDATA[Johnny Fisher Vows Comeback After Tough Dave Allen Loss]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/longest-heavyweight-title-reigns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-08T11:49:58.079Z</news:publication_date>
-      <news:title><![CDATA[Boxing’s Longest Heavyweight Title Reigns – Legends of the Ring]]></news:title>
+      <news:publication_date>2025-07-09T23:56:49.683Z</news:publication_date>
+      <news:title><![CDATA[Emanuel Odiase Eyes Heavyweight Title by 2027 with Support from Joshua]]></news:title>
     </news:news>
   </url>
 
@@ -33,8 +21,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-07T12:29:41.240Z</news:publication_date>
+      <news:publication_date>2025-07-09T17:51:00.607Z</news:publication_date>
       <news:title><![CDATA[Sirenko vs. Dacres Set for Usyk–Dubois Undercard at Wembley]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-dillian-whyte-riyadh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-09T23:56:49.683Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
     </news:news>
   </url>
 </urlset>
