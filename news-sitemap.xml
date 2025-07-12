@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-09T23:56:49.683Z</news:publication_date>
+      <news:publication_date>2025-07-11T20:50:39.191Z</news:publication_date>
       <news:title><![CDATA[Emanuel Odiase Eyes Heavyweight Title by 2027 with Support from Joshua]]></news:title>
     </news:news>
   </url>
@@ -21,20 +21,104 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-09T17:51:00.607Z</news:publication_date>
+      <news:publication_date>2025-07-11T20:50:39.191Z</news:publication_date>
       <news:title><![CDATA[Sirenko vs. Dacres Set for Usyk–Dubois Undercard at Wembley]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-dillian-whyte-riyadh</loc>
+    <loc>https://www.heavyweightboxing.com/news/dubois-usyk-wembley-fight</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-09T23:56:49.683Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma vs Dillian Whyte Set for August 16 in Riyadh]]></news:title>
+      <news:publication_date>2025-07-11T20:54:02.297Z</news:publication_date>
+      <news:title><![CDATA[Wembley Thunder Returns – Oleksandr Usyk vs. Daniel Dubois]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-vs-dubois-ii-first-look-early-preview-analysis-and-boxing-betting-odds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:50:39.191Z</news:publication_date>
+      <news:title><![CDATA[Usyk vs. Dubois II: Preview, Odds, Tale of the Tape & What to Expect]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-im-back-on-my-mission</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:51:06.448Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Opens Up: Shoulder Recovery, Mental Reset & His Mission]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-justis-huni-ipswich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:51:25.024Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley vs Justis Huni Set for June 7 at Portman Road]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-daniel-dubois-wembley-july-19</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:54:28.008Z</news:publication_date>
+      <news:title><![CDATA[Usyk vs Dubois 2: Undisputed Heavyweight Title Rematch Set for Wembley]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-mike-balogun-glasgow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:51:46.214Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs. Mike Balogun Set for May 24 in Glasgow, Scotland]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-reported-ill</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:52:21.457Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois vs. Joseph Parker in Jeopardy as Dubois Falls Ill]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-joseph-parker-ibf-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-11T20:52:37.975Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois vs. Joseph Parker: IBF Heavyweight Title Fight & Path]]></news:title>
     </news:news>
   </url>
 </urlset>
