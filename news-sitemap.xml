@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-rebuilds-after-allen-loss</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-16T01:09:53.677Z</news:publication_date>
+      <news:title><![CDATA[Johnny Fisher Vows Comeback After Tough Dave Allen Loss]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-16T01:09:53.677Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Lerena Set for Usyk-Dubois Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-daniel-dubois-wembley-july-19</loc>
     <news:news>
       <news:publication>
