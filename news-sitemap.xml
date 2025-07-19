@@ -3,26 +3,50 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-daniel-dubois</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T11:50:33.382Z</news:publication_date>
+      <news:title><![CDATA[Oleksandr Usyk Daniel Dubois]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-kevin-lerana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T11:48:23.765Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie Kevin Lerana]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/vladyslav-sirenko-solomon-dacres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T11:45:53.643Z</news:publication_date>
+      <news:title><![CDATA[Vladyslav Sirenko Solomon Dacres]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/usyk-dubois-2-faceoff-chaos-vs-mastery</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-17T12:35:29.441Z</news:publication_date>
+      <news:publication_date>2025-07-19T11:46:07.531Z</news:publication_date>
       <news:title><![CDATA[Usyk vs Dubois 2: Face Off Highlights Chaos vs Mastery Ahead of Clash]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-daniel-dubois-wembley-july-19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-16T17:19:57.407Z</news:publication_date>
-      <news:title><![CDATA[Usyk vs Dubois 2: Undisputed Heavyweight Title Rematch Set for Wembley]]></news:title>
     </news:news>
   </url>
 </urlset>
