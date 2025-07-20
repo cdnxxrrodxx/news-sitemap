@@ -3,38 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-daniel-dubois</loc>
+    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-19T11:50:33.382Z</news:publication_date>
-      <news:title><![CDATA[Oleksandr Usyk Daniel Dubois]]></news:title>
+      <news:publication_date>2025-07-19T23:06:48.869Z</news:publication_date>
+      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-kevin-lerana</loc>
+    <loc>https://www.heavyweightboxing.com/news/okolie-defeats-lerena-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-19T11:48:23.765Z</news:publication_date>
-      <news:title><![CDATA[Lawrence Okolie Kevin Lerana]]></news:title>
+      <news:publication_date>2025-07-19T23:34:36.161Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie Outpoints Kevin Lerena at Wembley Stadium]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/vladyslav-sirenko-solomon-dacres</loc>
+    <loc>https://www.heavyweightboxing.com/news/dacres-defeats-sirenko-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-19T11:45:53.643Z</news:publication_date>
-      <news:title><![CDATA[Vladyslav Sirenko Solomon Dacres]]></news:title>
+      <news:publication_date>2025-07-19T19:52:44.041Z</news:publication_date>
+      <news:title><![CDATA[Solomon Dacres Outboxes Vladyslav Sirenko at Wembley Stadium]]></news:title>
     </news:news>
   </url>
 
@@ -45,8 +45,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-19T11:46:07.531Z</news:publication_date>
+      <news:publication_date>2025-07-19T15:27:09.494Z</news:publication_date>
       <news:title><![CDATA[Usyk vs Dubois 2: Face Off Highlights Chaos vs Mastery Ahead of Clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/sirenko-vs-dacres-wembley-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T19:12:42.149Z</news:publication_date>
+      <news:title><![CDATA[Sirenko vs. Dacres Set for Usyk–Dubois Undercard at Wembley]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/okolie-lerena-july-19-preview-wembley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T21:10:58.304Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Lerena Set for Usyk-Dubois Undercard]]></news:title>
     </news:news>
   </url>
 </urlset>
