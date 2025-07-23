@@ -9,8 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-22T02:04:36.592Z</news:publication_date>
-      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Ever?]]></news:title>
+      <news:publication_date>2025-07-22T22:07:01.125Z</news:publication_date>
+      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
     </news:news>
   </url>
 
@@ -21,8 +21,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-21T23:05:24.060Z</news:publication_date>
+      <news:publication_date>2025-07-22T17:30:26.614Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov Returns: Time to Prove It in 2025]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-22T17:27:07.082Z</news:publication_date>
+      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
     </news:news>
   </url>
 
@@ -45,8 +57,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-21T23:06:05.699Z</news:publication_date>
+      <news:publication_date>2025-07-22T17:27:07.082Z</news:publication_date>
       <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/wilder-stops-herndon-in-seven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-22T17:30:26.614Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder Stops Tyrell Herndon in 7th Round Comeback Fight]]></news:title>
     </news:news>
   </url>
 </urlset>
