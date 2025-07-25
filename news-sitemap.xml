@@ -3,62 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/wbo-orders-usyk-vs-parker-but-will-it-happen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-25T02:00:47.648Z</news:publication_date>
+      <news:title><![CDATA[WBO Orders Usyk vs Parker, But Saudis Aren’t Backing It]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-greatest-heavyweight-of-all-time</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-22T22:07:01.125Z</news:publication_date>
+      <news:publication_date>2025-07-25T01:52:07.777Z</news:publication_date>
       <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-time-to-turn-potential-into-progress</loc>
+    <loc>https://www.heavyweightboxing.com/news/dacres-defeats-sirenko-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-22T17:30:26.614Z</news:publication_date>
-      <news:title><![CDATA[Bakhodir Jalolov Returns: Time to Prove It in 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-22T17:27:07.082Z</news:publication_date>
-      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/makhmudov-destroys-brown-tko-round-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-22T17:27:07.082Z</news:publication_date>
-      <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/wilder-stops-herndon-in-seven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-22T17:30:26.614Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder Stops Tyrell Herndon in 7th Round Comeback Fight]]></news:title>
+      <news:publication_date>2025-07-25T01:52:07.777Z</news:publication_date>
+      <news:title><![CDATA[Solomon Dacres Outboxes Vladyslav Sirenko at Wembley Stadium]]></news:title>
     </news:news>
   </url>
 </urlset>
