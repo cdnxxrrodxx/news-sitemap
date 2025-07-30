@@ -9,8 +9,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-27T23:06:12.071Z</news:publication_date>
+      <news:publication_date>2025-07-29T14:05:09.741Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Makhmudov Set for Oct. 11 in Sheffield]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-29T23:45:13.493Z</news:publication_date>
+      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
     </news:news>
   </url>
 </urlset>
