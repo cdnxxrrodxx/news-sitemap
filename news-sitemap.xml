@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-31T11:23:12.728Z</news:publication_date>
+      <news:publication_date>2025-07-31T12:58:08.265Z</news:publication_date>
       <news:title><![CDATA[Dillian Whyte vs. Moses Itauma: Experience vs. Hype, a Defining Clash]]></news:title>
     </news:news>
   </url>
@@ -21,8 +21,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-30T16:01:58.303Z</news:publication_date>
+      <news:publication_date>2025-07-31T12:57:18.845Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Makhmudov Looks Set for Oct. 11 in Sheffield]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/wbo-orders-usyk-vs-parker-but-will-it-happen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-31T12:57:18.845Z</news:publication_date>
+      <news:title><![CDATA[WBO Orders Usyk vs Parker, But Saudis Aren’t Backing It]]></news:title>
     </news:news>
   </url>
 
@@ -35,18 +47,6 @@
       </news:publication>
       <news:publication_date>2025-07-31T12:10:18.799Z</news:publication_date>
       <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-29T23:45:13.493Z</news:publication_date>
-      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
     </news:news>
   </url>
 </urlset>
