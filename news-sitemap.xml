@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T21:20:59.399Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Dillian Whyte: Heavyweight Sensation Faces First Test]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/dillian-whyte-vs-moses-itauma-2025-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-08T02:34:14.625Z</news:publication_date>
+      <news:publication_date>2025-08-08T18:07:06.774Z</news:publication_date>
       <news:title><![CDATA[Dillian Whyte vs. Moses Itauma: Experience vs. Hype, a Defining Clash]]></news:title>
     </news:news>
   </url>
@@ -23,6 +35,18 @@
       </news:publication>
       <news:publication_date>2025-08-08T02:34:14.625Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Makhmudov Looks Set for Oct. 11 in Sheffield]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/okolie-defeats-lerena-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T18:07:06.774Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie Outpoints Kevin Lerena at Wembley Stadium]]></news:title>
     </news:news>
   </url>
 </urlset>
