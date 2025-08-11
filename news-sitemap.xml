@@ -3,38 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-vs-jarrell-miller-wba-title-path</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-10T17:32:56.142Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller vs Michael Hunter: WBA #1 vs #4 Showdown ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-08T21:20:59.399Z</news:publication_date>
+      <news:publication_date>2025-08-10T17:23:12.410Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Dillian Whyte: Heavyweight Sensation Faces First Test]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/dillian-whyte-vs-moses-itauma-2025-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-08T18:07:06.774Z</news:publication_date>
-      <news:title><![CDATA[Dillian Whyte vs. Moses Itauma: Experience vs. Hype, a Defining Clash]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/okolie-defeats-lerena-wembley-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-08T18:07:06.774Z</news:publication_date>
-      <news:title><![CDATA[Lawrence Okolie Outpoints Kevin Lerena at Wembley Stadium]]></news:title>
+      <news:publication_date>2025-08-10T17:23:12.410Z</news:publication_date>
+      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
     </news:news>
   </url>
 </urlset>
