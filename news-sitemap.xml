@@ -3,26 +3,62 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/michael-hunter-vs-jarrell-miller-wba-title-path</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-ko-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-15T11:30:08.897Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller vs Michael Hunter: WBA #1 vs #4 Showdown ]]></news:title>
+      <news:publication_date>2025-08-16T23:12:56.402Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Crushes Dillian Whyte in First-Round KO]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-greatest-heavyweight-of-all-time</loc>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-defeats-david-adeleye-unanimous-decision</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-15T10:55:30.209Z</news:publication_date>
-      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
+      <news:publication_date>2025-08-16T22:25:24.008Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Outlasts David Adeleye in War, Wins Unanimous Decision]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/hrgovic-vs-adeleye-fight-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-16T19:40:56.169Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgović vs David Adeleye – Full Fight Preview & Predictions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dillian-whyte-vs-moses-itauma-2025-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-17T03:28:25.082Z</news:publication_date>
+      <news:title><![CDATA[Dillian Whyte vs. Moses Itauma: Experience vs. Hype, a Defining Clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/wbo-orders-usyk-vs-parker-but-will-it-happen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-17T03:28:25.082Z</news:publication_date>
+      <news:title><![CDATA[WBO Orders Usyk vs Parker, But Saudis Aren’t Backing It]]></news:title>
     </news:news>
   </url>
 </urlset>
