@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-trainer-split-don-charles-tony-sims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T11:34:09.139Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois Splits from Don Charles After Usyk Loss]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-ko-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-16T23:12:56.402Z</news:publication_date>
+      <news:publication_date>2025-08-19T11:34:09.139Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma Crushes Dillian Whyte in First-Round KO]]></news:title>
     </news:news>
   </url>
@@ -27,38 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/hrgovic-vs-adeleye-fight-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-arslanbek-makhmudov-sheffield-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-16T19:40:56.169Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgović vs David Adeleye – Full Fight Preview & Predictions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/dillian-whyte-vs-moses-itauma-2025-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T03:28:25.082Z</news:publication_date>
-      <news:title><![CDATA[Dillian Whyte vs. Moses Itauma: Experience vs. Hype, a Defining Clash]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/wbo-orders-usyk-vs-parker-but-will-it-happen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T03:28:25.082Z</news:publication_date>
-      <news:title><![CDATA[WBO Orders Usyk vs Parker, But Saudis Aren’t Backing It]]></news:title>
+      <news:publication_date>2025-08-19T11:35:56.525Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Makhmudov Looks Set for Oct. 11 in Sheffield]]></news:title>
     </news:news>
   </url>
 </urlset>
