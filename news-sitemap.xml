@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/barriere-vs-vianello-october-11-wbc-continental-americas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T01:00:18.194Z</news:publication_date>
+      <news:title><![CDATA[Alexis Barrière vs. Guido Vianello – October 11th Philadelphia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/ivan-dychko-vs-jermaine-franklin-set-for-sept-13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-20T15:52:41.181Z</news:publication_date>
+      <news:title><![CDATA[Ivan Dychko vs. Jermaine Franklin Added to Canelo–Crawford Undercard]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-next-opponent-jermaine-franklin</loc>
     <news:news>
       <news:publication>
@@ -39,14 +63,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-arslanbek-makhmudov-sheffield-2025</loc>
+    <loc>https://www.heavyweightboxing.com/news/wbo-orders-usyk-vs-parker-but-will-it-happen</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-19T11:35:56.525Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Makhmudov Looks Set for Oct. 11 in Sheffield]]></news:title>
+      <news:publication_date>2025-08-20T15:26:32.062Z</news:publication_date>
+      <news:title><![CDATA[WBO Orders Usyk vs Parker, But Saudis Aren’t Backing It]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-greatest-heavyweight-of-all-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T00:33:37.140Z</news:publication_date>
+      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
     </news:news>
   </url>
 </urlset>
