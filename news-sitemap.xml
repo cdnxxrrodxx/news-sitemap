@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/gassiev-vs-milton-august-23-miami</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-22T04:27:13.321Z</news:publication_date>
+      <news:title><![CDATA[Murat Gassiev vs. Jeremiah Milton Set for August 23 in Miami]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/barriere-vs-vianello-october-11-wbc-continental-americas</loc>
     <news:news>
       <news:publication>
@@ -27,38 +39,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-next-opponent-jermaine-franklin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-19T20:05:02.950Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma’s Next Opponent: Why Jermaine Franklin Fits]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-trainer-split-don-charles-tony-sims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T11:47:09.196Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois Splits from Don Charles After Usyk Loss]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-ko-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-20T11:47:09.196Z</news:publication_date>
+      <news:publication_date>2025-08-22T04:25:06.622Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma Crushes Dillian Whyte in First-Round KO]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-defeats-david-adeleye-unanimous-decision</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-22T04:25:06.622Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Outlasts David Adeleye in War, Wins Unanimous Decision]]></news:title>
     </news:news>
   </url>
 
