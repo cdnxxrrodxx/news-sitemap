@@ -3,13 +3,37 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-is-back----but-does-he-really-want-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T02:46:18.945Z</news:publication_date>
+      <news:title><![CDATA[Andy Ruiz Is Back – The Harsh Reality of His Heavyweight Comeback]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/from-the-ring-to-the-reels-boxing-and-the-inspiration-behind-casino-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T11:06:11.358Z</news:publication_date>
+      <news:title><![CDATA[From the Ring to the Reels: Boxing-Inspired Casino Games]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/murat-gassiev-stops-jeremiah-milton-in-seven-rounds-in-miami</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-24T05:29:10.935Z</news:publication_date>
+      <news:publication_date>2025-08-25T02:41:06.400Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev Stops Jeremiah Milton After Seven Rounds in Miami]]></news:title>
     </news:news>
   </url>
@@ -23,6 +47,18 @@
       </news:publication>
       <news:publication_date>2025-08-24T01:57:47.038Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev vs. Jeremiah Milton Set for August 23 in Miami]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-arslanbek-makhmudov-sheffield-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T02:41:06.400Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Makhmudov Looks Set for Oct. 11 in Sheffield]]></news:title>
     </news:news>
   </url>
 </urlset>
