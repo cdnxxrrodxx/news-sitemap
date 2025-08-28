@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-is-back----but-does-he-really-want-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T14:55:09.544Z</news:publication_date>
-      <news:title><![CDATA[Andy Ruiz Is Back – The Harsh Reality of His Heavyweight Comeback]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/from-the-ring-to-the-reels-boxing-and-the-inspiration-behind-casino-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T17:13:00.067Z</news:publication_date>
-      <news:title><![CDATA[From the Ring to the Reels: Boxing-Inspired Casino Games]]></news:title>
-    </news:news>
-  </url>
 </urlset>
