@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T20:02:52.012Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/joe-bugner-obituary-career-life</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T19:39:48.934Z</news:publication_date>
-      <news:title><![CDATA[Joe Bugner (1950–2025): From Reluctant Contender to Ring Icon]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-stops-jeremiah-milton-in-seven-rounds-in-miami</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T19:37:54.282Z</news:publication_date>
-      <news:title><![CDATA[Murat Gassiev Stops Jeremiah Milton After Seven Rounds in Miami]]></news:title>
-    </news:news>
-  </url>
 </urlset>
