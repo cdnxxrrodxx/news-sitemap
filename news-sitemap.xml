@@ -3,38 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/ivan-dychko-vs-jermaine-franklin-result-las-vegas</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-12T11:55:43.477Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/gassiev-vs-milton-august-23-miami</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-12T11:56:34.992Z</news:publication_date>
-      <news:title><![CDATA[Murat Gassiev vs. Jeremiah Milton Set for August 23 in Miami]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/ivan-dychko-vs-jermaine-franklin-set-for-sept-13</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-12T11:56:18.733Z</news:publication_date>
-      <news:title><![CDATA[Ivan Dychko vs. Jermaine Franklin Added to Canelo–Crawford Undercard]]></news:title>
+      <news:publication_date>2025-09-14T01:56:04.304Z</news:publication_date>
+      <news:title><![CDATA[Jermain Franklin Gets Controversial Decision Over Ivan Dychko]]></news:title>
     </news:news>
   </url>
 </urlset>
