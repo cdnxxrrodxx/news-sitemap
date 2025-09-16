@@ -9,8 +9,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-14T01:56:04.304Z</news:publication_date>
+      <news:publication_date>2025-09-15T18:27:14.624Z</news:publication_date>
       <news:title><![CDATA[Jermain Franklin Gets Controversial Decision Over Ivan Dychko]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-vs-jarrell-miller-wba-title-path</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-15T18:28:17.399Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller vs Michael Hunter: WBA #1 vs #4 Showdown ]]></news:title>
     </news:news>
   </url>
 </urlset>
