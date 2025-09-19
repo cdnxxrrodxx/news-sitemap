@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/ivan-dychko-vs-jermaine-franklin-result-las-vegas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-17T01:56:59.696Z</news:publication_date>
-      <news:title><![CDATA[Jermain Franklin Gets Controversial Decision Over Ivan Dychko]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-17T01:56:59.696Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
-    </news:news>
-  </url>
 </urlset>
