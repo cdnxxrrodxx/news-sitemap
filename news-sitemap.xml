@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/group-sports-or-solo-sports-lessons-from-boxing-for-students</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T11:53:43.757Z</news:publication_date>
+      <news:title><![CDATA[Group Sports vs Solo Sports: Boxing Lessons for Students]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/kingsley-ibeh-stops-gerald-washington-in-san-salvador</loc>
     <news:news>
       <news:publication>
@@ -15,18 +27,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/luis-ortiz-returns-with-a-quick-ko-win-at-age-46</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T12:56:48.448Z</news:publication_date>
-      <news:title><![CDATA[Luis Ortiz Returns With A Quick KO Win At Age 46 in Florida ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/joe-bugner-obituary-career-life</loc>
     <news:news>
       <news:publication>
@@ -35,6 +35,90 @@
       </news:publication>
       <news:publication_date>2025-09-21T14:45:31.290Z</news:publication_date>
       <news:title><![CDATA[Joe Bugner (1950–2025): From Reluctant Contender to Ring Icon]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-defeats-david-adeleye-unanimous-decision</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:02:52.905Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Outlasts David Adeleye in War, Wins Unanimous Decision]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-vs-jarrell-miller-wba-title-path</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:04:31.297Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller vs Michael Hunter: WBA #1 vs #4 Showdown ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-greatest-heavyweight-of-all-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-22T23:11:02.341Z</news:publication_date>
+      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/makhmudov-destroys-brown-tko-round-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:36:23.509Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-heavyweight-knockout-madison-square-garden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:37:21.660Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana Shocks MSG With Frightening Knockout Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/gene-tunney-fighting-marine-champion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:38:14.359Z</news:publication_date>
+      <news:title><![CDATA[Gene Tunney: The Heavyweight Champion Who Beat Dempsey and Retired on ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/the-revival-of-the-heavyweight-division-whos-leading-the-charge-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T00:40:37.115Z</news:publication_date>
+      <news:title><![CDATA[Heavyweight Boxing's 2025 Comeback: The Division That Refused to Go]]></news:title>
     </news:news>
   </url>
 </urlset>
