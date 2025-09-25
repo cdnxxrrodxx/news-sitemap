@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-25T12:17:08.756Z</news:publication_date>
+      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/group-sports-or-solo-sports-lessons-from-boxing-for-students</loc>
     <news:news>
       <news:publication>
@@ -15,86 +27,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-defeats-david-adeleye-unanimous-decision</loc>
+    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-23T00:02:52.905Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgovic Outlasts David Adeleye in War, Wins Unanimous Decision]]></news:title>
+      <news:publication_date>2025-09-25T11:20:50.375Z</news:publication_date>
+      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/michael-hunter-vs-jarrell-miller-wba-title-path</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-ko-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-23T00:04:31.297Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller vs Michael Hunter: WBA #1 vs #4 Showdown ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-greatest-heavyweight-of-all-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-22T23:11:02.341Z</news:publication_date>
-      <news:title><![CDATA[Is Oleksandr Usyk the Greatest Heavyweight Champion Ever?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/makhmudov-destroys-brown-tko-round-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T00:36:23.509Z</news:publication_date>
-      <news:title><![CDATA[Arslanbek Makhmudov Pounds Out Brown in 1st-Round ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-heavyweight-knockout-madison-square-garden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T00:37:21.660Z</news:publication_date>
-      <news:title><![CDATA[Teremoana Teremoana Shocks MSG With Frightening Knockout Win]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/gene-tunney-fighting-marine-champion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T00:38:14.359Z</news:publication_date>
-      <news:title><![CDATA[Gene Tunney: The Heavyweight Champion Who Beat Dempsey and Retired on ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/the-revival-of-the-heavyweight-division-whos-leading-the-charge-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T00:40:37.115Z</news:publication_date>
-      <news:title><![CDATA[Heavyweight Boxing's 2025 Comeback: The Division That Refused to Go]]></news:title>
+      <news:publication_date>2025-09-25T11:20:50.375Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Crushes Dillian Whyte in First-Round KO]]></news:title>
     </news:news>
   </url>
 </urlset>
