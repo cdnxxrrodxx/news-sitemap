@@ -21,32 +21,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-25T13:39:01.665Z</news:publication_date>
+      <news:publication_date>2025-09-26T15:08:08.114Z</news:publication_date>
       <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-25T11:20:50.375Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-dillian-whyte-ko-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-25T11:20:50.375Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Crushes Dillian Whyte in First-Round KO]]></news:title>
     </news:news>
   </url>
 </urlset>
