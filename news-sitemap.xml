@@ -2,15 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T15:08:08.114Z</news:publication_date>
-      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
-    </news:news>
-  </url>
 </urlset>
