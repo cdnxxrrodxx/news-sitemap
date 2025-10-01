@@ -27,6 +27,18 @@
   </url>
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/canadas-top-heavyweights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-30T15:33:51.982Z</news:publication_date>
+      <news:title><![CDATA[Canada’s Top Heavyweights: Champions, Legends, Icons]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
     <news:news>
       <news:publication>
@@ -35,6 +47,18 @@
       </news:publication>
       <news:publication_date>2025-09-29T21:47:07.725Z</news:publication_date>
       <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/kingsley-ibeh-stops-gerald-washington-in-san-salvador</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-30T15:33:51.982Z</news:publication_date>
+      <news:title><![CDATA[Kingsley Ibeh Stops Gerald Washington in San Salvador | Report]]></news:title>
     </news:news>
   </url>
 </urlset>
