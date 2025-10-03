@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/canadas-top-heavyweights</loc>
+    <loc>https://www.heavyweightboxing.com/news/who-will-be-the-first-unbeaten-fighter-to-take-an-l</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-30T15:33:51.982Z</news:publication_date>
-      <news:title><![CDATA[Canada’s Top Heavyweights: Champions, Legends, Icons]]></news:title>
+      <news:publication_date>2025-10-03T11:20:49.373Z</news:publication_date>
+      <news:title><![CDATA[Who Loses First? Parker–Wardley & Pero–Thompson]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/kingsley-ibeh-stops-gerald-washington-in-san-salvador</loc>
+    <loc>https://www.heavyweightboxing.com/news/saudi-arabia-rise-global-fight-destinations</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-30T15:33:51.982Z</news:publication_date>
-      <news:title><![CDATA[Kingsley Ibeh Stops Gerald Washington in San Salvador | Report]]></news:title>
+      <news:publication_date>2025-10-02T14:20:20.826Z</news:publication_date>
+      <news:title><![CDATA[Saudi Arabia’s Rise in Global Boxing Destinations.]]></news:title>
     </news:news>
   </url>
 </urlset>
