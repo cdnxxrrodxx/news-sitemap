@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-kiki-leutele-2-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-04T12:08:54.136Z</news:publication_date>
+      <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 in Gold Coast]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/who-will-be-the-first-unbeaten-fighter-to-take-an-l</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-03T11:20:49.373Z</news:publication_date>
-      <news:title><![CDATA[Who Loses First? Parker–Wardley & Pero–Thompson]]></news:title>
+      <news:publication_date>2025-10-03T23:05:31.131Z</news:publication_date>
+      <news:title><![CDATA[Who gets their first loss? Parker–Wardley & Pero–Thompson]]></news:title>
     </news:news>
   </url>
 
@@ -21,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-02T14:20:20.826Z</news:publication_date>
+      <news:publication_date>2025-10-02T12:43:29.090Z</news:publication_date>
       <news:title><![CDATA[Saudi Arabia’s Rise in Global Boxing Destinations.]]></news:title>
     </news:news>
   </url>
