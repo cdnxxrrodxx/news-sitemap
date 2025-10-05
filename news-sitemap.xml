@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-04T12:08:54.136Z</news:publication_date>
+      <news:publication_date>2025-10-05T11:57:10.972Z</news:publication_date>
       <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 in Gold Coast]]></news:title>
     </news:news>
   </url>
@@ -27,14 +27,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/saudi-arabia-rise-global-fight-destinations</loc>
+    <loc>https://www.heavyweightboxing.com/news/canadas-top-heavyweights</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-02T12:43:29.090Z</news:publication_date>
-      <news:title><![CDATA[Saudi Arabia’s Rise in Global Boxing Destinations.]]></news:title>
+      <news:publication_date>2025-10-04T12:27:38.540Z</news:publication_date>
+      <news:title><![CDATA[Canada’s Top Heavyweights: Champions, Legends, Icons]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-04T12:27:38.540Z</news:publication_date>
+      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
     </news:news>
   </url>
 </urlset>
