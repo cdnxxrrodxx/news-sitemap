@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-the-sleeping-giant-poised-to-end-germanys-95-year-heavyweight-wait</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T23:41:46.533Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/guido-vianello-stops-alexis-barriere-tko-5</loc>
     <news:news>
       <news:publication>
@@ -11,30 +23,6 @@
       </news:publication>
       <news:publication_date>2025-10-12T16:57:53.017Z</news:publication_date>
       <news:title><![CDATA[Guido Vianello Stops Alexis Barrière in Round 5 to Win WBC Continental]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-12T01:30:16.259Z</news:publication_date>
-      <news:title><![CDATA[Arslanbek Makhmudov Beats Dave Allen in Sheffield UD Win]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/barriere-vs-vianello-october-11-wbc-continental-americas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-12T02:42:36.366Z</news:publication_date>
-      <news:title><![CDATA[Alexis Barrière vs. Guido Vianello – October 11th Philadelphia]]></news:title>
     </news:news>
   </url>
 </urlset>
