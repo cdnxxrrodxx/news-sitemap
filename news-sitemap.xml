@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-the-sleeping-giant-poised-to-end-germanys-95-year-heavyweight-wait</loc>
+    <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-13T23:41:46.533Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
+      <news:publication_date>2025-10-16T11:49:18.411Z</news:publication_date>
+      <news:title><![CDATA[Kubrat Pulev vs. Murat Gassiev Set for Dec. 12 in Dubai – WBA Regular ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/lenier-pero-looks-to-keep-building-against-jordan-thompson</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-15T18:53:07.038Z</news:publication_date>
+      <news:title><![CDATA[Lenier Peró vs. Jordan Thompson – Full Fight Preview and Analysis]]></news:title>
     </news:news>
   </url>
 
