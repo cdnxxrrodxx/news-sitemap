@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek----november-15-san-luis-potosi-mexico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-16T21:16:51.159Z</news:publication_date>
+      <news:title><![CDATA[Richard Torrez Jr. Picks Tomáš Šálek in Mexico Stay-Busy ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-16T11:49:18.411Z</news:publication_date>
+      <news:publication_date>2025-10-16T21:07:36.692Z</news:publication_date>
       <news:title><![CDATA[Kubrat Pulev vs. Murat Gassiev Set for Dec. 12 in Dubai – WBA Regular ]]></news:title>
     </news:news>
   </url>
@@ -27,14 +39,38 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
+    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-15T11:47:28.050Z</news:publication_date>
-      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Oct 25]]></news:title>
+      <news:publication_date>2025-10-16T12:38:07.915Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Beats Dave Allen in Sheffield UD Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/murad-khalidov-stops-sergey-kuzmin-in-saint-petersburg-upset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-16T21:16:51.159Z</news:publication_date>
+      <news:title><![CDATA[Murad Khalidov Knocks Out Sergey Kuzmin in Seventh Round]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-kiki-leutele-2-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-16T12:38:07.915Z</news:publication_date>
+      <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 in Gold Coast]]></news:title>
     </news:news>
   </url>
 </urlset>
