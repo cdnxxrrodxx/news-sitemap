@@ -27,18 +27,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/lenier-pero-looks-to-keep-building-against-jordan-thompson</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-15T18:53:07.038Z</news:publication_date>
-      <news:title><![CDATA[Lenier Peró vs. Jordan Thompson – Full Fight Preview and Analysis]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
     <news:news>
       <news:publication>
@@ -71,6 +59,18 @@
       </news:publication>
       <news:publication_date>2025-10-16T12:38:07.915Z</news:publication_date>
       <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 in Gold Coast]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-17T14:22:46.849Z</news:publication_date>
+      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Nov 29]]></news:title>
     </news:news>
   </url>
 </urlset>
