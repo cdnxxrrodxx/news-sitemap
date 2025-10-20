@@ -9,8 +9,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-19T04:05:56.371Z</news:publication_date>
+      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba Stops Joey Dawejko in Round 7 at Barclays]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
+      <news:title><![CDATA[Kubrat Pulev vs. Murat Gassiev Set for Dec. 12 in Dubai – WBA Regular ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-the-sleeping-giant-poised-to-end-germanys-95-year-heavyweight-wait</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T20:32:19.963Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
     </news:news>
   </url>
 
@@ -27,14 +51,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/british-title-showdown-frazer-clarke-vs-jeamie-tkv-tshikeva</loc>
+    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-oct-25-o2-london-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-17T14:22:46.849Z</news:publication_date>
-      <news:title><![CDATA[Clarke vs Jeamie TKV British Heavyweight Title Nov 29]]></news:title>
+      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
+      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
     </news:news>
   </url>
 </urlset>
