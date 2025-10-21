@@ -15,6 +15,18 @@
   </url>
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek----november-15-san-luis-potosi-mexico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-20T13:36:14.284Z</news:publication_date>
+      <news:title><![CDATA[Richard Torrez Jr. Picks Tomáš Šálek in Mexico Stay-Busy ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
     <news:news>
       <news:publication>
@@ -33,20 +45,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-19T20:32:19.963Z</news:publication_date>
+      <news:publication_date>2025-10-20T13:36:14.284Z</news:publication_date>
       <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-st-petersburg-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-19T03:48:14.008Z</news:publication_date>
-      <news:title><![CDATA[Bakhodir Jalolov Defeats Vitaliy Kudukhov by Unanimous Decision]]></news:title>
     </news:news>
   </url>
 
