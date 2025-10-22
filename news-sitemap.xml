@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
+      <news:publication_date>2025-10-22T11:37:10.149Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba Stops Joey Dawejko in Round 7 at Barclays]]></news:title>
     </news:news>
   </url>
@@ -27,26 +27,38 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
-      <news:title><![CDATA[Kubrat Pulev vs. Murat Gassiev Set for Dec. 12 in Dubai – WBA Regular ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/agit-kabayel-the-sleeping-giant-poised-to-end-germanys-95-year-heavyweight-wait</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-20T13:36:14.284Z</news:publication_date>
+      <news:publication_date>2025-10-22T03:00:44.733Z</news:publication_date>
       <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T23:57:53.365Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Beats Dave Allen in Sheffield UD Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-kiki-leutele-2-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-22T11:38:49.521Z</news:publication_date>
+      <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 on the Gold Coast]]></news:title>
     </news:news>
   </url>
 
@@ -57,7 +69,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-19T20:04:50.805Z</news:publication_date>
+      <news:publication_date>2025-10-21T23:56:56.914Z</news:publication_date>
       <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Heavyweight Showdown in London]]></news:title>
     </news:news>
   </url>
