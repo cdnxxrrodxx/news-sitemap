@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/chisora-vs-whyte-3-dec-13-manchester</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-27T11:30:50.345Z</news:publication_date>
+      <news:title><![CDATA[Derek Chisora vs Dillian Whyte III set for Dec 13 in Manchester]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/fabio-wardley-stops-joseph-parker-london-2025</loc>
     <news:news>
       <news:publication>
@@ -11,18 +23,6 @@
       </news:publication>
       <news:publication_date>2025-10-25T23:48:31.055Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley stops Joseph Parker in Round 11 at The O2 in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-vs-fabio-wardley-risks-rewards-and-a-route-to-usyk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-24T17:36:59.405Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker vs Fabio Wardley: Date, PPV Price & Keys]]></news:title>
     </news:news>
   </url>
 </urlset>
