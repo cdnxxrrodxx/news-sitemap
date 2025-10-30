@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-tommy-welch---the-midnight-train-rolls-on</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-30T00:39:22.336Z</news:publication_date>
+      <news:title><![CDATA[Richard Riakporhe vs Tommy Welch – Full Fight Preview and Prediction]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/the-night-free-tv-heavyweight-boxing-took-its-final-bow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T20:17:07.367Z</news:publication_date>
+      <news:title><![CDATA[Holmes–Williams: The Last Heavyweight Championship on Free TV]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/lenier-pero-vs-jordan-thompson-preview-orlando-2025</loc>
     <news:news>
       <news:publication>
