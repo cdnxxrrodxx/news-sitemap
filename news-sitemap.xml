@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-tommy-welch---the-midnight-train-rolls-on</loc>
+    <loc>https://www.heavyweightboxing.com/news/lenier-pero-defeats-jordan-thompson-by-unanimous-decision-in-orlando</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-30T14:31:18.954Z</news:publication_date>
-      <news:title><![CDATA[Richard Riakporhe vs Tommy Welch – Full Fight Preview and Prediction]]></news:title>
+      <news:publication_date>2025-11-02T12:13:22.118Z</news:publication_date>
+      <news:title><![CDATA[Lenier Peró Defeats Jordan Thompson by Unanimous Decision in Orlando]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/the-night-free-tv-heavyweight-boxing-took-its-final-bow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-01T22:23:53.805Z</news:publication_date>
+      <news:title><![CDATA[Holmes–Williams: The Last Heavyweight Championship on Free TV]]></news:title>
     </news:news>
   </url>
 
@@ -45,20 +57,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-01T04:05:44.853Z</news:publication_date>
+      <news:publication_date>2025-11-02T00:24:47.868Z</news:publication_date>
       <news:title><![CDATA[Lenier Peró vs. Jordan Thompson – Full Fight Preview and Analysis]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/guido-vianello-stops-alexis-barriere-tko-5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-30T14:05:58.558Z</news:publication_date>
-      <news:title><![CDATA[Guido Vianello Stops Alexis Barrière in Round 5 to Win WBC Continental]]></news:title>
     </news:news>
   </url>
 </urlset>
