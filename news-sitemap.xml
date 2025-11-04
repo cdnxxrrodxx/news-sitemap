@@ -3,38 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-damian-knyba-oberhausen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-03T17:54:05.481Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Defends WBC Interim Title vs Damian Knyba]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/lenier-pero-defeats-jordan-thompson-by-unanimous-decision-in-orlando</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-02T12:13:22.118Z</news:publication_date>
+      <news:publication_date>2025-11-03T17:42:21.785Z</news:publication_date>
       <news:title><![CDATA[Lenier Peró Defeats Jordan Thompson by Unanimous Decision in Orlando]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/the-night-free-tv-heavyweight-boxing-took-its-final-bow</loc>
+    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-01T22:23:53.805Z</news:publication_date>
-      <news:title><![CDATA[Holmes–Williams: The Last Heavyweight Championship on Free TV]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/lenier-pero-vs-jordan-thompson-preview-orlando-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-02T00:24:47.868Z</news:publication_date>
-      <news:title><![CDATA[Lenier Peró vs. Jordan Thompson – Full Fight Preview and Analysis]]></news:title>
+      <news:publication_date>2025-11-03T17:42:21.785Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Beats Dave Allen in Sheffield UD Win]]></news:title>
     </news:news>
   </url>
 </urlset>
