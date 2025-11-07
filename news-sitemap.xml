@@ -13,16 +13,4 @@
       <news:title><![CDATA[Agit Kabayel Defends WBC Interim Title vs Damian Knyba]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/lenier-pero-defeats-jordan-thompson-by-unanimous-decision-in-orlando</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-05T00:12:17.964Z</news:publication_date>
-      <news:title><![CDATA[Lenier Peró Defeats Jordan Thompson by Unanimous Decision in Orlando]]></news:title>
-    </news:news>
-  </url>
 </urlset>
