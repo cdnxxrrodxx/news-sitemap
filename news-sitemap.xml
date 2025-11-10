@@ -3,62 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-chris-thomas-fight-report</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-jermaine-franklin</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-08T05:04:38.195Z</news:publication_date>
-      <news:title><![CDATA[Otto Wallin Scores KO Win Over Chris Thomas in Atlantic City]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/michael-hunter-returns-at-york-hall-a-strange-detour-against-eli-frankham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T22:55:46.308Z</news:publication_date>
-      <news:title><![CDATA[Michael Hunter vs Eli Frankham: Full Fight Preview & Breakdown]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-damian-knyba-oberhausen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T13:41:08.332Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel Defends WBC Interim Title vs Damian Knyba]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-stops-joseph-parker-london-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T03:56:59.513Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley stops Joseph Parker in Round 11 at The O2 in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/pulev-gassiev-wba-regular-title-dubai-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T22:55:46.308Z</news:publication_date>
-      <news:title><![CDATA[Kubrat Pulev vs. Murat Gassiev Set for Dec. 12 in Dubai – WBA Regular ]]></news:title>
+      <news:publication_date>2025-11-10T12:04:36.282Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Jermaine Franklin]]></news:title>
     </news:news>
   </url>
 </urlset>
