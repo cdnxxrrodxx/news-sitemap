@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-jermaine-franklin</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-jermaine-franklin-manchester-2026</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-10T12:04:36.282Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Jermaine Franklin]]></news:title>
+      <news:publication_date>2025-11-10T15:12:56.044Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for January 24 at Co-op Live]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-returns-at-york-hall-a-strange-detour-against-eli-frankham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T12:52:19.416Z</news:publication_date>
+      <news:title><![CDATA[Michael Hunter vs Eli Frankham: Full Fight Preview & Breakdown]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-damian-knyba-oberhausen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T13:02:34.202Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Defends WBC Interim Title vs Damian Knyba]]></news:title>
     </news:news>
   </url>
 </urlset>
