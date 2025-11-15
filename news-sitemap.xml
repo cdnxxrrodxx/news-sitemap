@@ -3,14 +3,50 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/common-mistakes-boxing-bettors-make-and-how-to-avoid-them</loc>
+    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-solomon-adebayo-fight-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-13T03:50:13.450Z</news:publication_date>
-      <news:title><![CDATA[Common Mistakes Boxing Bettors Make and How to Avoid Them]]></news:title>
+      <news:publication_date>2025-11-14T22:51:53.262Z</news:publication_date>
+      <news:title><![CDATA[Bakhodir Jalolov Stops Solomon Adebayo in the 4th round.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/joseph-parker-adverse-test-recreational-substance-ukad-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T20:37:40.778Z</news:publication_date>
+      <news:title><![CDATA[Joseph Parker Returns Adverse Test for Recreational Substance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-chris-thomas-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T12:46:08.500Z</news:publication_date>
+      <news:title><![CDATA[Otto Wallin Scores KO Win Over Chris Thomas in Atlantic City]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/lenier-pero-defeats-jordan-thompson-by-unanimous-decision-in-orlando</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T19:36:18.411Z</news:publication_date>
+      <news:title><![CDATA[Lenier Peró Defeats Jordan Thompson by Unanimous Decision in Orlando]]></news:title>
     </news:news>
   </url>
 
@@ -23,6 +59,18 @@
       </news:publication>
       <news:publication_date>2025-11-13T21:41:38.624Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba Stops Joey Dawejko in Round 7 at Barclays]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek----november-15-san-luis-potosi-mexico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T20:37:40.778Z</news:publication_date>
+      <news:title><![CDATA[Richard Torrez Jr. Picks Tomáš Šálek in Mexico Stay-Busy ]]></news:title>
     </news:news>
   </url>
 </urlset>
