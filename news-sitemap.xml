@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-16T04:15:53.010Z</news:publication_date>
+      <news:title><![CDATA[Richard Torrez Jr. Stops Tomáš Šálek in One Round in Mexico ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-stops-tommy-welch-tko2-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-16T04:15:53.010Z</news:publication_date>
+      <news:title><![CDATA[Richard Riakporhe Stops Tommy Welch in Two Rounds — Full Fight Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-solomon-adebayo-fight-report</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       </news:publication>
       <news:publication_date>2025-11-14T20:37:40.778Z</news:publication_date>
       <news:title><![CDATA[Joseph Parker Returns Adverse Test for Recreational Substance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-jermaine-franklin-manchester-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-15T17:40:37.732Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for January 24 at Co-op Live]]></news:title>
     </news:news>
   </url>
 
@@ -51,14 +87,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/damian-knyba-breaks-down-joey-dawejko-in-brooklyn</loc>
+    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-tommy-welch---the-midnight-train-rolls-on</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-13T21:41:38.624Z</news:publication_date>
-      <news:title><![CDATA[Damian Knyba Stops Joey Dawejko in Round 7 at Barclays]]></news:title>
+      <news:publication_date>2025-11-15T20:40:37.593Z</news:publication_date>
+      <news:title><![CDATA[Richard Riakporhe vs Tommy Welch – Full Fight Preview and Prediction]]></news:title>
     </news:news>
   </url>
 
