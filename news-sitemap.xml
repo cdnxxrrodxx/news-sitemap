@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek-fight-report</loc>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-becomes-wbo-titleholder-after-usyk-vacates-belt</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-16T04:15:53.010Z</news:publication_date>
-      <news:title><![CDATA[Richard Torrez Jr. Stops Tomáš Šálek in One Round in Mexico ]]></news:title>
+      <news:publication_date>2025-11-17T21:10:57.185Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley Becomes WBO Titleholder; Usyk Remains Champion]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/when-spectacle-becomes-sport-the-joshua-paul-bout-exposes-boxings-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-17T15:56:22.500Z</news:publication_date>
+      <news:title><![CDATA[How Joshua vs Jake Paul Undermines Heavyweight Boxing]]></news:title>
     </news:news>
   </url>
 
@@ -21,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-16T04:15:53.010Z</news:publication_date>
+      <news:publication_date>2025-11-17T17:43:08.277Z</news:publication_date>
       <news:title><![CDATA[Richard Riakporhe Stops Tommy Welch in Two Rounds — Full Fight Report]]></news:title>
     </news:news>
   </url>
@@ -33,20 +45,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-15T17:40:37.732Z</news:publication_date>
+      <news:publication_date>2025-11-17T21:07:04.258Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for January 24 at Co-op Live]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-tommy-welch---the-midnight-train-rolls-on</loc>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-damian-knyba-oberhausen</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-15T20:40:37.593Z</news:publication_date>
-      <news:title><![CDATA[Richard Riakporhe vs Tommy Welch – Full Fight Preview and Prediction]]></news:title>
+      <news:publication_date>2025-11-17T21:07:04.258Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Defends WBC Interim Title vs Damian Knyba]]></news:title>
     </news:news>
   </url>
 </urlset>
