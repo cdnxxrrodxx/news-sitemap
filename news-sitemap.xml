@@ -2,15 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/when-spectacle-becomes-sport-the-joshua-paul-bout-exposes-boxings-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-22T02:36:07.885Z</news:publication_date>
-      <news:title><![CDATA[How Joshua vs Jake Paul Undermines Heavyweight Boxing]]></news:title>
-    </news:news>
-  </url>
 </urlset>
