@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-30T04:09:12.174Z</news:publication_date>
+      <news:publication_date>2025-12-01T04:13:26.506Z</news:publication_date>
       <news:title><![CDATA[Hughie Fury Stops Michael Webster in One Round at Rotterdam]]></news:title>
     </news:news>
   </url>
@@ -21,7 +21,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-30T01:59:53.773Z</news:publication_date>
+      <news:publication_date>2025-11-30T15:50:24.411Z</news:publication_date>
       <news:title><![CDATA[Clarke vs. Tshikeva: Jeamie TKV Wins Split Decision for British Title]]></news:title>
     </news:news>
   </url>
@@ -35,6 +35,30 @@
       </news:publication>
       <news:publication_date>2025-11-29T21:49:56.213Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov Stops Solomon Adebayo in the 4th round.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek----november-15-san-luis-potosi-mexico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-01T04:14:09.542Z</news:publication_date>
+      <news:title><![CDATA[Richard Torrez Jr. Picks Tomáš Šálek in Mexico Stay-Busy ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-kiki-leutele-2-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-01T04:15:50.865Z</news:publication_date>
+      <news:title><![CDATA[Justis Huni vs Kiki Leutele 2 Set for Dec 6 on the Gold Coast]]></news:title>
     </news:news>
   </url>
 
