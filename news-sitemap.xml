@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-chooses-wilder-over-wardley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T01:51:27.127Z</news:publication_date>
+      <news:title><![CDATA[Oleksandr Usyk Chooses Deontay Wilder: Smart Move or Duck?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/hughie-fury-michael-webster-result</loc>
     <news:news>
       <news:publication>
@@ -21,8 +33,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-30T15:50:24.411Z</news:publication_date>
+      <news:publication_date>2025-12-03T01:51:27.127Z</news:publication_date>
       <news:title><![CDATA[Clarke vs. Tshikeva: Jeamie TKV Wins Split Decision for British Title]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-stops-tommy-welch-tko2-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T01:51:27.127Z</news:publication_date>
+      <news:title><![CDATA[Richard Riakporhe Stops Tommy Welch in Two Rounds — Full Fight Report]]></news:title>
     </news:news>
   </url>
 
@@ -35,18 +59,6 @@
       </news:publication>
       <news:publication_date>2025-12-01T18:16:55.483Z</news:publication_date>
       <news:title><![CDATA[Michael Hunter vs Eli Frankham: Full Fight Preview & Breakdown]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-torrez-jr-vs-tomas-salek----november-15-san-luis-potosi-mexico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T04:14:09.542Z</news:publication_date>
-      <news:title><![CDATA[Richard Torrez Jr. Picks Tomáš Šálek in Mexico Stay-Busy ]]></news:title>
     </news:news>
   </url>
 
