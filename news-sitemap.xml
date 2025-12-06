@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-chooses-wilder-over-wardley</loc>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-eli-frankham-york-hall-result</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-04T12:11:53.402Z</news:publication_date>
-      <news:title><![CDATA[Oleksandr Usyk Chooses Deontay Wilder: Smart Move or Duck?]]></news:title>
+      <news:publication_date>2025-12-05T20:39:45.089Z</news:publication_date>
+      <news:title><![CDATA[Michael Hunter Eli Frankham York Hall Result]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/hughie-fury-michael-webster-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-05T23:37:43.819Z</news:publication_date>
+      <news:title><![CDATA[Hughie Fury Stops Michael Webster in One Round at Rotterdam]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/michael-hunter-returns-at-york-hall-a-strange-detour-against-eli-frankham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-06T00:24:38.774Z</news:publication_date>
+      <news:title><![CDATA[Michael Hunter vs Eli Frankham: Full Fight Preview & Breakdown]]></news:title>
     </news:news>
   </url>
 </urlset>
