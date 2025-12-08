@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/michael-hunter-eli-frankham-york-hall-result</loc>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-survives-early-scare-blows-out-balaz-in-monaco</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T20:39:45.089Z</news:publication_date>
-      <news:title><![CDATA[Michael Hunter Eli Frankham York Hall Result]]></news:title>
+      <news:publication_date>2025-12-07T23:00:59.417Z</news:publication_date>
+      <news:title><![CDATA[Johnny Fisher stops Ivan Balaz in Monaco comeback win]]></news:title>
     </news:news>
   </url>
 
@@ -21,7 +21,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T23:37:43.819Z</news:publication_date>
+      <news:publication_date>2025-12-07T20:57:11.072Z</news:publication_date>
       <news:title><![CDATA[Hughie Fury Stops Michael Webster in One Round at Rotterdam]]></news:title>
     </news:news>
   </url>
