@@ -3,30 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-survives-early-scare-blows-out-balaz-in-monaco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-07T23:00:59.417Z</news:publication_date>
-      <news:title><![CDATA[Johnny Fisher stops Ivan Balaz in Monaco comeback win]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/hughie-fury-michael-webster-result</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-07T20:57:11.072Z</news:publication_date>
-      <news:title><![CDATA[Hughie Fury Stops Michael Webster in One Round at Rotterdam]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/frazer-clarke-jeamie-tkv-tshikeva-result</loc>
     <news:news>
       <news:publication>
