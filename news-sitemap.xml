@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-kos-kubrat-pulev-wba-regular-title</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-15T13:39:40.004Z</news:publication_date>
-      <news:title><![CDATA[Gassiev Stops Pulev in Six to Claim WBA Regular Heavyweight Belt]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/usyk-chooses-wilder-over-wardley</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-15T13:39:40.004Z</news:publication_date>
-      <news:title><![CDATA[Oleksandr Usyk Chooses Deontay Wilder: Smart Move or Duck?]]></news:title>
-    </news:news>
-  </url>
 </urlset>
