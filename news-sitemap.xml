@@ -49,16 +49,4 @@
       <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for January 24 at Co-op Live]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/the-night-free-tv-heavyweight-boxing-took-its-final-bow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-20T21:48:47.636Z</news:publication_date>
-      <news:title><![CDATA[Holmes–Williams: The Last Heavyweight Championship on Free TV]]></news:title>
-    </news:news>
-  </url>
 </urlset>
