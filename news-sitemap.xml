@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-05T11:56:27.035Z</news:publication_date>
+      <news:publication_date>2026-01-05T19:09:34.140Z</news:publication_date>
       <news:title><![CDATA[Agit Kabayel vs Damian Knyba: Fight-Week Stakes and Scenarios]]></news:title>
     </news:news>
   </url>
@@ -35,6 +35,42 @@
       </news:publication>
       <news:publication_date>2026-01-04T21:23:50.167Z</news:publication_date>
       <news:title><![CDATA[Tony Yoka Scores First-Round KO Over Patrick Korte]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-chooses-wilder-over-wardley</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T17:28:49.649Z</news:publication_date>
+      <news:title><![CDATA[Oleksandr Usyk Chooses Deontay Wilder: Smart Move or Duck?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-becomes-wbo-titleholder-after-usyk-vacates-belt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T16:27:23.971Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley Becomes WBO Titleholder; Usyk Remains Champion]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-the-sleeping-giant-poised-to-end-germanys-95-year-heavyweight-wait</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T16:40:08.433Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel: Germany’s Sleeping Giant Slowly Awakens ]]></news:title>
     </news:news>
   </url>
 </urlset>
