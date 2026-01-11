@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-stops-damian-knyba-oberhausen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-11T00:22:48.507Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-vs-damian-knyba-fight-week-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T22:16:18.582Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel vs Damian Knyba: Fight-Week Stakes and Scenarios]]></news:title>
+    </news:news>
+  </url>
 </urlset>
