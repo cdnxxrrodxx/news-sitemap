@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-stops-damian-knyba-oberhausen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-12T13:52:47.358Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/xhoxhaj-seifkhani-european-heavyweight-title-preview</loc>
     <news:news>
       <news:publication>
@@ -23,18 +11,6 @@
       </news:publication>
       <news:publication_date>2026-01-13T15:38:03.105Z</news:publication_date>
       <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-jermaine-franklin-manchester-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-13T11:41:09.938Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for January 24 at Co-op Live]]></news:title>
     </news:news>
   </url>
 </urlset>
