@@ -2,4 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-kingsley-ibeh-preview-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-18T01:03:11.172Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller Meets Kingsley Ibeh on January 31 in New York]]></news:title>
+    </news:news>
+  </url>
 </urlset>
