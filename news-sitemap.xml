@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T18:14:38.598Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-kingsley-ibeh-preview-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T14:03:34.614Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller vs Kingsley Ibeh Preview & Analysis (2026)]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-kos-kubrat-pulev-wba-regular-title</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T14:03:34.614Z</news:publication_date>
+      <news:title><![CDATA[Gassiev Stops Pulev in Six to Claim WBA Regular Heavyweight Belt]]></news:title>
+    </news:news>
+  </url>
 </urlset>
