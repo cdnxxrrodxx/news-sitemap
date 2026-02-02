@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-01T06:09:06.673Z</news:publication_date>
+      <news:publication_date>2026-02-01T15:44:22.627Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller Edges Kingsley Ibeh by Split Decision at MSG]]></news:title>
     </news:news>
   </url>
@@ -23,30 +23,6 @@
       </news:publication>
       <news:publication_date>2026-02-01T06:09:06.673Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/khalidov-defeats-larduet-unanimous-decision-moscow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T00:38:32.173Z</news:publication_date>
-      <news:title><![CDATA[Murad Khalidov Defeats Jose Larduet Over Ten Rounds]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-vs-charles-martin-february-15</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T21:08:20.269Z</news:publication_date>
-      <news:title><![CDATA[Efe Ajagba vs Charles Martin Set for February 15 in Las Vegas]]></news:title>
     </news:news>
   </url>
 
@@ -71,42 +47,6 @@
       </news:publication>
       <news:publication_date>2026-02-01T03:02:31.270Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller vs Kingsley Ibeh Preview & Analysis (2026)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-stops-damian-knyba-oberhausen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T00:38:34.387Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-seifkhani-european-heavyweight-title-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T23:50:59.981Z</news:publication_date>
-      <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-stops-ebenezer-tetteh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T21:08:20.269Z</news:publication_date>
-      <news:title><![CDATA[Lawrence Okolie Stops Ebenezer Tetteh After Two Rounds]]></news:title>
     </news:news>
   </url>
 </urlset>
