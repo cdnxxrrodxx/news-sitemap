@@ -2,15 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-kingsley-ibeh-fight-report-split-decision-msg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-01T15:44:22.627Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller Edges Kingsley Ibeh by Split Decision at MSG]]></news:title>
-    </news:news>
-  </url>
 </urlset>
