@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-10T00:13:29.329Z</news:publication_date>
+      <news:publication_date>2026-02-11T18:15:46.141Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba vs Charles Martin Set for February 15 in Las Vegas]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T00:13:29.329Z</news:publication_date>
-      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
     </news:news>
   </url>
 </urlset>
