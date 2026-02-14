@@ -3,14 +3,62 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-daniel-dubois-may-9-manchester-wbo-title</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T19:23:33.156Z</news:publication_date>
+      <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-kingsley-ibeh-fight-report-split-decision-msg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T19:16:38.964Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller Edges Kingsley Ibeh by Split Decision at MSG]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/efe-ajagba-vs-charles-martin-february-15</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-11T18:15:46.141Z</news:publication_date>
+      <news:publication_date>2026-02-13T19:16:38.964Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba vs Charles Martin Set for February 15 in Las Vegas]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-stops-damian-knyba-oberhausen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T14:33:21.893Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-seifkhani-european-heavyweight-title-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T14:33:21.893Z</news:publication_date>
+      <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
     </news:news>
   </url>
 </urlset>
