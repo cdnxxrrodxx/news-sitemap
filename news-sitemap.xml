@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/labinot-xhoxhaj-knocks-out-pezhman-seifkhani-ko4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-14T22:50:43.972Z</news:publication_date>
+      <news:title><![CDATA[Labinot Xhoxhaj Knocks Out Pezhman Seifkhani in Round 4]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-daniel-dubois-may-9-manchester-wbo-title</loc>
     <news:news>
       <news:publication>
@@ -57,7 +69,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-13T14:33:21.893Z</news:publication_date>
+      <news:publication_date>2026-02-14T21:53:10.961Z</news:publication_date>
       <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
     </news:news>
   </url>
