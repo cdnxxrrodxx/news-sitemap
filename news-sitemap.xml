@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-stops-charles-martin-round-4-tko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T05:16:51.759Z</news:publication_date>
+      <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/labinot-xhoxhaj-knocks-out-pezhman-seifkhani-ko4</loc>
     <news:news>
       <news:publication>
@@ -21,20 +33,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-13T19:23:33.156Z</news:publication_date>
+      <news:publication_date>2026-02-16T03:44:57.272Z</news:publication_date>
       <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-kingsley-ibeh-fight-report-split-decision-msg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-13T19:16:38.964Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller Edges Kingsley Ibeh by Split Decision at MSG]]></news:title>
     </news:news>
   </url>
 
@@ -45,20 +45,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-13T19:16:38.964Z</news:publication_date>
+      <news:publication_date>2026-02-16T03:44:57.272Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba vs Charles Martin Set for February 15 in Las Vegas]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-stops-damian-knyba-oberhausen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-13T14:33:21.893Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
     </news:news>
   </url>
 
@@ -71,6 +59,42 @@
       </news:publication>
       <news:publication_date>2026-02-14T21:53:10.961Z</news:publication_date>
       <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-trainer-split-don-charles-tony-sims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T00:37:33.905Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois Splits from Don Charles After Usyk Loss]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-knocks-out-dubois-wembley-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T00:38:15.861Z</news:publication_date>
+      <news:title><![CDATA[Usyk KOs Dubois in Five to Stay Undisputed Champion]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/usyk-dubois-2-faceoff-chaos-vs-mastery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T00:39:40.591Z</news:publication_date>
+      <news:title><![CDATA[Usyk vs Dubois 2: Face Off Highlights Chaos vs Mastery Ahead of Clash]]></news:title>
     </news:news>
   </url>
 </urlset>
