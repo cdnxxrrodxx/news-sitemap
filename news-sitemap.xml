@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-16T05:16:51.759Z</news:publication_date>
+      <news:publication_date>2026-02-17T12:25:47.938Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/labinot-xhoxhaj-knocks-out-pezhman-seifkhani-ko4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-14T22:50:43.972Z</news:publication_date>
-      <news:title><![CDATA[Labinot Xhoxhaj Knocks Out Pezhman Seifkhani in Round 4]]></news:title>
     </news:news>
   </url>
 
@@ -51,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-seifkhani-european-heavyweight-title-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-14T21:53:10.961Z</news:publication_date>
-      <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
+      <news:publication_date>2026-02-17T12:25:47.938Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
     </news:news>
   </url>
 
