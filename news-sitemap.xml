@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-march-28</loc>
+    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-stops-charles-martin-round-4-tko</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-17T23:32:27.516Z</news:publication_date>
-      <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/labinot-xhoxhaj-knocks-out-pezhman-seifkhani-ko4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T23:32:27.516Z</news:publication_date>
-      <news:title><![CDATA[Labinot Xhoxhaj Knocks Out Pezhman Seifkhani in Round 4]]></news:title>
+      <news:publication_date>2026-02-19T16:47:21.067Z</news:publication_date>
+      <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
     </news:news>
   </url>
 
@@ -35,18 +23,6 @@
       </news:publication>
       <news:publication_date>2026-02-18T12:48:20.393Z</news:publication_date>
       <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/xhoxhaj-seifkhani-european-heavyweight-title-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T14:17:53.507Z</news:publication_date>
-      <news:title><![CDATA[Xhoxhaj vs Seifkhani: European Heavyweight Title Fight Preview]]></news:title>
     </news:news>
   </url>
 </urlset>
