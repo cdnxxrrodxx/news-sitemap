@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/top-10-boxing-games-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-21T23:54:47.772Z</news:publication_date>
+      <news:title><![CDATA[Top 10 Greatest Boxing Video Games of All Time Ranked]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-march-28</loc>
     <news:news>
       <news:publication>
@@ -11,18 +23,6 @@
       </news:publication>
       <news:publication_date>2026-02-20T13:19:05.348Z</news:publication_date>
       <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-stops-charles-martin-round-4-tko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T16:47:21.067Z</news:publication_date>
-      <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
     </news:news>
   </url>
 
