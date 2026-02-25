@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/max-schmeling-heavyweight-legend-biography</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T14:09:59.263Z</news:publication_date>
+      <news:title><![CDATA[max-schmeling-heavyweight-legend-biography]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/top-10-boxing-games-ranked</loc>
     <news:news>
       <news:publication>
@@ -21,8 +33,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-22T21:13:20.740Z</news:publication_date>
+      <news:publication_date>2026-02-24T21:14:03.467Z</news:publication_date>
       <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-daniel-dubois-may-9-manchester-wbo-title</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T15:11:25.856Z</news:publication_date>
+      <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T21:14:03.467Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
     </news:news>
   </url>
 </urlset>
