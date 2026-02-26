@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/frank-warren-threatens-1-billion-lawsuit-sela-tko-zuffa-boxing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T19:36:11.372Z</news:publication_date>
+      <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/max-schmeling-heavyweight-legend-biography</loc>
     <news:news>
       <news:publication>
@@ -15,26 +27,26 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/top-10-boxing-games-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T18:05:39.966Z</news:publication_date>
-      <news:title><![CDATA[Top 10 Greatest Boxing Video Games of All Time Ranked]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-march-28</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-24T21:14:03.467Z</news:publication_date>
+      <news:publication_date>2026-02-25T19:34:33.632Z</news:publication_date>
       <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-stops-charles-martin-round-4-tko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T19:34:33.632Z</news:publication_date>
+      <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
     </news:news>
   </url>
 
