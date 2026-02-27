@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-vs-tony-yoka-paris-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T15:58:37.542Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/frank-warren-threatens-1-billion-lawsuit-sela-tko-zuffa-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-25T19:36:11.372Z</news:publication_date>
+      <news:publication_date>2026-02-27T12:27:50.470Z</news:publication_date>
       <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/max-schmeling-heavyweight-legend-biography</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T14:09:59.263Z</news:publication_date>
-      <news:title><![CDATA[max-schmeling-heavyweight-legend-biography]]></news:title>
     </news:news>
   </url>
 
@@ -57,20 +57,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-24T15:11:25.856Z</news:publication_date>
+      <news:publication_date>2026-02-27T12:27:50.470Z</news:publication_date>
       <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
+    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-vs-derek-chisora-april-4-london</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-24T21:14:03.467Z</news:publication_date>
-      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
+      <news:publication_date>2026-02-26T15:35:45.226Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
     </news:news>
   </url>
 </urlset>
