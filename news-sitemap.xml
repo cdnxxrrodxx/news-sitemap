@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-26T15:58:37.542Z</news:publication_date>
+      <news:publication_date>2026-02-27T14:51:29.942Z</news:publication_date>
       <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
     </news:news>
   </url>
@@ -23,30 +23,6 @@
       </news:publication>
       <news:publication_date>2026-02-27T12:27:50.470Z</news:publication_date>
       <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-march-28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T19:34:33.632Z</news:publication_date>
-      <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/efe-ajagba-stops-charles-martin-round-4-tko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T19:34:33.632Z</news:publication_date>
-      <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
     </news:news>
   </url>
 
