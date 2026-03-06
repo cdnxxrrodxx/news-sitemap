@@ -25,4 +25,16 @@
       <news:title><![CDATA[Richard Riakporhe vs Jeamie Tshikeva British Heavyweight Title]]></news:title>
     </news:news>
   </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-vs-tony-yoka-paris-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-05T14:53:52.348Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
+    </news:news>
+  </url>
 </urlset>
