@@ -3,30 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-preview-fury-makhmudov-undercard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T12:19:13.654Z</news:publication_date>
-      <news:title><![CDATA[Justis Huni vs Frazer Clarke Heavyweight Preview on Fury vs Makhmudov ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-jeamie-tshikeva-british-heavyweight-title-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T12:17:33.206Z</news:publication_date>
-      <news:title><![CDATA[Richard Riakporhe vs Jeamie Tshikeva British Heavyweight Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-vs-tony-yoka-paris-preview</loc>
     <news:news>
       <news:publication>
