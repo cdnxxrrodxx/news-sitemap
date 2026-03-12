@@ -3,38 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-moses-itauma-british-boxing-board-awards-heavyweights</loc>
+    <loc>https://www.heavyweightboxing.com/news/frank-warren-threatens-1-billion-lawsuit-sela-tko-zuffa-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-09T22:04:21.189Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley and Moses Itauma Lead British Surge After BBBofC Awards]]></news:title>
+      <news:publication_date>2026-03-11T18:30:45.891Z</news:publication_date>
+      <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-preview-fury-makhmudov-undercard</loc>
+    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-march-28</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-09T22:04:21.189Z</news:publication_date>
-      <news:title><![CDATA[Justis Huni vs Frazer Clarke Heavyweight Preview on Fury vs Makhmudov ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-daniel-dubois-may-9-manchester-wbo-title</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T22:04:21.189Z</news:publication_date>
-      <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
+      <news:publication_date>2026-03-11T18:30:09.263Z</news:publication_date>
+      <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
     </news:news>
   </url>
 </urlset>
