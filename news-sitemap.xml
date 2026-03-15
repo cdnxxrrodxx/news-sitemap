@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-warren-blasts-oleksandr-usyk-for-ducking-heavyweight-contenders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T17:56:19.716Z</news:publication_date>
-      <news:title><![CDATA[Frank Warren Blasts Oleksandr Usyk for Ducking Heavyweight Contenders]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-moses-itauma-british-boxing-board-awards-heavyweights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T17:56:19.716Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley and Moses Itauma Lead British Surge After BBBofC Awards]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-warren-threatens-1-billion-lawsuit-sela-tko-zuffa-boxing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T17:56:19.716Z</news:publication_date>
-      <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
-    </news:news>
-  </url>
 </urlset>
