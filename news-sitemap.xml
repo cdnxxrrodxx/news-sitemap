@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/jermaine-franklin-wants-respect-heavyweight-boxing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T00:37:12.768Z</news:publication_date>
+      <news:title><![CDATA[Jermaine Franklin Wants Respect in Heavyweight Boxing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-future-heavyweight-boxing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T00:19:43.469Z</news:publication_date>
+      <news:title><![CDATA[Is Moses Itauma the Future of Heavyweight Boxing Today]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-lenier-pero-wba-heavyweight-eliminator-las-vegas</loc>
     <news:news>
       <news:publication>
@@ -33,7 +57,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-23T11:16:47.920Z</news:publication_date>
+      <news:publication_date>2026-03-23T23:27:52.868Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Jermaine Franklin Set for March 28 at Co-op Live]]></news:title>
     </news:news>
   </url>
