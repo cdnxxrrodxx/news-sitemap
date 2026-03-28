@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T21:57:42.201Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/jared-anderson-vs-solomon-dacres-uk-debut-manchester</loc>
     <news:news>
       <news:publication>
@@ -27,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-preview-fury-makhmudov-undercard</loc>
+    <loc>https://www.heavyweightboxing.com/news/frank-warren-blasts-oleksandr-usyk-for-ducking-heavyweight-contenders</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-25T18:39:04.617Z</news:publication_date>
-      <news:title><![CDATA[Justis Huni vs Frazer Clarke Heavyweight Preview on Fury vs Makhmudov ]]></news:title>
+      <news:publication_date>2026-03-27T21:57:42.201Z</news:publication_date>
+      <news:title><![CDATA[Frank Warren Blasts Oleksandr Usyk for Ducking Heavyweight Contenders]]></news:title>
     </news:news>
   </url>
 </urlset>
