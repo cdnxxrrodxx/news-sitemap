@@ -3,38 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/gurgen-hovhannisyan-stops-cesar-navarro-round-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T11:52:06.983Z</news:publication_date>
+      <news:title><![CDATA[Gurgen Hovhannisyan Stops Cesar Navarro in Round 5 for a TKO Win]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T12:05:48.468Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-27T21:57:42.201Z</news:publication_date>
+      <news:publication_date>2026-03-28T13:09:22.439Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jared-anderson-vs-solomon-dacres-uk-debut-manchester</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:03:58.907Z</news:publication_date>
-      <news:title><![CDATA[Jared Anderson vs Solomon Dacres Set for UK Debut on May 9th]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jared-anderson-joins-queensberry-heavyweights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T20:57:16.083Z</news:publication_date>
-      <news:title><![CDATA[Jared Anderson Joins Queensberry Heavyweight Stable]]></news:title>
     </news:news>
   </url>
 
@@ -47,6 +47,18 @@
       </news:publication>
       <news:publication_date>2026-03-27T21:57:42.201Z</news:publication_date>
       <news:title><![CDATA[Frank Warren Blasts Oleksandr Usyk for Ducking Heavyweight Contenders]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-vs-tony-yoka-paris-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T01:07:53.020Z</news:publication_date>
+      <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
     </news:news>
   </url>
 </urlset>
