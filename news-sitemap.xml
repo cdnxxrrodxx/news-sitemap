@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T11:52:06.983Z</news:publication_date>
+      <news:publication_date>2026-03-30T11:33:54.386Z</news:publication_date>
       <news:title><![CDATA[Gurgen Hovhannisyan Stops Cesar Navarro in Round 5 for a TKO Win]]></news:title>
     </news:news>
   </url>
@@ -21,7 +21,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T12:05:48.468Z</news:publication_date>
+      <news:publication_date>2026-03-30T11:33:27.310Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
     </news:news>
   </url>
@@ -39,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-warren-blasts-oleksandr-usyk-for-ducking-heavyweight-contenders</loc>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-future-heavyweight-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-27T21:57:42.201Z</news:publication_date>
-      <news:title><![CDATA[Frank Warren Blasts Oleksandr Usyk for Ducking Heavyweight Contenders]]></news:title>
+      <news:publication_date>2026-03-30T11:34:20.186Z</news:publication_date>
+      <news:title><![CDATA[Is Moses Itauma the Future of Heavyweight Boxing Today]]></news:title>
     </news:news>
   </url>
 
@@ -59,6 +59,18 @@
       </news:publication>
       <news:publication_date>2026-03-29T01:07:53.020Z</news:publication_date>
       <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-vs-derek-chisora-april-4-london</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T11:36:54.532Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
     </news:news>
   </url>
 </urlset>
