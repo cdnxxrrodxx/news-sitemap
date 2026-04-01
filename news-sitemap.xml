@@ -3,50 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/gurgen-hovhannisyan-stops-cesar-navarro-round-5</loc>
+    <loc>https://www.heavyweightboxing.com/news/derek-chisora-vs-deontay-wilder-preview-april-4-london</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-30T11:33:54.386Z</news:publication_date>
-      <news:title><![CDATA[Gurgen Hovhannisyan Stops Cesar Navarro in Round 5 for a TKO Win]]></news:title>
+      <news:publication_date>2026-03-31T21:58:05.964Z</news:publication_date>
+      <news:title><![CDATA[Derek Chisora vs Deontay Wilder Preview: At the Heavyweight Crossroads]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-30T11:33:27.310Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-future-heavyweight-boxing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T11:34:20.186Z</news:publication_date>
-      <news:title><![CDATA[Is Moses Itauma the Future of Heavyweight Boxing Today]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-vs-derek-chisora-april-4-london</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T11:36:54.532Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
+      <news:publication_date>2026-04-01T12:27:44.622Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
     </news:news>
   </url>
 </urlset>
