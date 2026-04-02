@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-31T21:58:05.964Z</news:publication_date>
+      <news:publication_date>2026-04-01T15:04:25.331Z</news:publication_date>
       <news:title><![CDATA[Derek Chisora vs Deontay Wilder Preview: At the Heavyweight Crossroads]]></news:title>
     </news:news>
   </url>
@@ -23,6 +23,18 @@
       </news:publication>
       <news:publication_date>2026-04-01T12:27:44.622Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-vs-derek-chisora-april-4-london</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T15:04:25.331Z</news:publication_date>
+      <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
     </news:news>
   </url>
 </urlset>
