@@ -3,50 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/deontay-wilder-vs-derek-chisora-fight-report-split-decision</loc>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-arslanbek-makhmudov-preview-prediction</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-06T12:03:16.919Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder Edges Derek Chisora by Split Decision]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/derek-chisora-vs-deontay-wilder-preview-april-4-london</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T12:04:07.240Z</news:publication_date>
-      <news:title><![CDATA[Derek Chisora vs Deontay Wilder Preview: At the Heavyweight Crossroads]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jared-anderson-vs-solomon-dacres-uk-debut-manchester</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T12:03:16.919Z</news:publication_date>
-      <news:title><![CDATA[Jared Anderson vs Solomon Dacres Set for UK Debut on May 9th]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T12:03:16.919Z</news:publication_date>
-      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
+      <news:publication_date>2026-04-08T01:15:02.422Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury vs Arslanbek Makhmudov Preview: Comeback, Control, and Early Danger]]></news:title>
     </news:news>
   </url>
 </urlset>
