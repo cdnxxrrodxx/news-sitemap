@@ -3,26 +3,50 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
+    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-fight-report-result-london</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-09T17:32:49.274Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
+      <news:publication_date>2026-04-12T12:06:34.691Z</news:publication_date>
+      <news:title><![CDATA[Justis Huni Defeats Frazer Clarke by Majority Decision in London]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-lenier-pero-wba-heavyweight-eliminator-las-vegas</loc>
+    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-jeamie-tshikeva-fight-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-09T17:33:00.472Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller vs Lenier Pero Set For WBA Heavyweight Eliminator ]]></news:title>
+      <news:publication_date>2026-04-11T23:03:36.701Z</news:publication_date>
+      <news:title><![CDATA[Richard Riakporhe Stops Jeamie Tshikeva in Five Rounds in London]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-arslanbek-makhmudov-fight-report-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T22:30:25.030Z</news:publication_date>
+      <news:title><![CDATA[Fury vs Makhmudov Result: Fury Wins by Unanimous Decision]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-arslanbek-makhmudov-preview-prediction</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T22:17:46.433Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury vs Arslanbek Makhmudov Preview & Prediction]]></news:title>
     </news:news>
   </url>
 
@@ -33,7 +57,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-09T17:32:29.602Z</news:publication_date>
+      <news:publication_date>2026-04-11T19:22:56.743Z</news:publication_date>
       <news:title><![CDATA[Justis Huni vs Frazer Clarke Heavyweight Preview on Fury vs Makhmudov ]]></news:title>
     </news:news>
   </url>
@@ -45,8 +69,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-09T17:31:52.618Z</news:publication_date>
+      <news:publication_date>2026-04-11T19:53:27.526Z</news:publication_date>
       <news:title><![CDATA[Richard Riakporhe vs Jeamie Tshikeva British Heavyweight Title]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-arslanbek-makhmudov-comeback-fight-april-11</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T22:20:53.348Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/arslanbek-makhmudov-defeats-dave-allen-unanimous-decision-sheffield</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T23:15:29.759Z</news:publication_date>
+      <news:title><![CDATA[Arslanbek Makhmudov Beats Dave Allen in Sheffield UD Win]]></news:title>
     </news:news>
   </url>
 </urlset>
