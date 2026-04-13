@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-artur-mann-preview-april-17-serpukhov</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T23:57:17.580Z</news:publication_date>
+      <news:title><![CDATA[Artem Suslenkov Returns in Heavyweight Boxing Clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-fight-report-result-london</loc>
     <news:news>
       <news:publication>
