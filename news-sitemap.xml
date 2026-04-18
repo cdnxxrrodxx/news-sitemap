@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-artur-mann-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T21:49:23.314Z</news:publication_date>
+      <news:title><![CDATA[Artem Suslenkov vs Artur Mann Ends in TKO in Serpukhov, Russia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T20:14:44.701Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
+    </news:news>
+  </url>
 </urlset>
