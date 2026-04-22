@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/justis-huni-vs-frazer-clarke-fight-report-result-london</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T00:52:00.035Z</news:publication_date>
-      <news:title><![CDATA[Justis Huni Defeats Frazer Clarke by Majority Decision in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-jeamie-tshikeva-fight-report</loc>
     <news:news>
       <news:publication>
@@ -23,18 +11,6 @@
       </news:publication>
       <news:publication_date>2026-04-21T11:55:17.544Z</news:publication_date>
       <news:title><![CDATA[Richard Riakporhe Stops Jeamie Tshikeva in Five Rounds in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-arslanbek-makhmudov-fight-report-result</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T00:52:00.035Z</news:publication_date>
-      <news:title><![CDATA[Fury vs Makhmudov Result: Fury Wins by Unanimous Decision]]></news:title>
     </news:news>
   </url>
 
