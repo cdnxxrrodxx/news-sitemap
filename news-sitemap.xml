@@ -3,38 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/richard-riakporhe-vs-jeamie-tshikeva-fight-report</loc>
+    <loc>https://www.heavyweightboxing.com/news/jarell-miller-lenier-pero-result-las-vegas</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-21T11:55:17.544Z</news:publication_date>
-      <news:title><![CDATA[Richard Riakporhe Stops Jeamie Tshikeva in Five Rounds in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-lenier-pero-wba-heavyweight-eliminator-las-vegas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T11:52:28.282Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller vs Lenier Pero Set For WBA Heavyweight Eliminator ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/lawrence-okolie-vs-tony-yoka-paris-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T11:55:17.544Z</news:publication_date>
-      <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
+      <news:publication_date>2026-04-22T13:54:40.829Z</news:publication_date>
+      <news:title><![CDATA[jarell-miller-lenier-pero-result-las-vegas]]></news:title>
     </news:news>
   </url>
 </urlset>
