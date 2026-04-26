@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/jarell-miller-lenier-pero-result-las-vegas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T04:52:04.691Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller Defeats Lenier Pero in WBA Eliminator Bout]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/jarrell-miller-vs-lenier-pero-wba-heavyweight-eliminator-las-vegas</loc>
     <news:news>
       <news:publication>
