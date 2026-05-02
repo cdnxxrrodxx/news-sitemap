@@ -13,16 +13,4 @@
       <news:title><![CDATA[Bakhodir Jalolov vs Agron Smakici Undercard Fight May 9]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-artur-mann-fight-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T13:37:47.520Z</news:publication_date>
-      <news:title><![CDATA[Artem Suslenkov vs Artur Mann Ends in TKO in Serpukhov, Russia]]></news:title>
-    </news:news>
-  </url>
 </urlset>
