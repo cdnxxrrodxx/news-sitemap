@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-moses-itauma-heavyweight-showdown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T14:33:25.425Z</news:publication_date>
+      <news:title><![CDATA[Bakhodir Jalolov vs Moses Itauma Suddenly Feels Like a Massive Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/gurgen-hovhannisyan-vs-uila-mauu-july-11-san-francisco</loc>
     <news:news>
       <news:publication>
@@ -15,13 +27,25 @@
   </url>
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-vs-daniel-dubois-preview-may-9-manchester-wbo-title</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T18:07:16.229Z</news:publication_date>
+      <news:title><![CDATA[Fabio Wardley vs Daniel Dubois Preview: WBO Heavyweight Title Fight ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-agron-smakici-preview-may-9</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T17:15:42.104Z</news:publication_date>
+      <news:publication_date>2026-05-08T14:32:42.969Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Agron Smakici Undercard Fight May 9]]></news:title>
     </news:news>
   </url>
