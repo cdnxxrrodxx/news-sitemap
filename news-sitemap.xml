@@ -3,74 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-stops-fabio-wardley-in-brutal-wbo-heavyweight-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T00:04:34.450Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois Stops Fabio Wardley in Brutal War to Claim WBO Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-agron-smakici-fight-report-result</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-09T19:54:03.941Z</news:publication_date>
+      <news:publication_date>2026-05-12T13:22:57.356Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov Stops Agron Smakici But Fails To Ignite Buzz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-moses-itauma-heavyweight-showdown</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T18:37:14.531Z</news:publication_date>
-      <news:title><![CDATA[Bakhodir Jalolov vs Moses Itauma Suddenly Feels Like a Massive Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/gurgen-hovhannisyan-vs-uila-mauu-july-11-san-francisco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T22:46:29.184Z</news:publication_date>
-      <news:title><![CDATA[Gurgen Hovhannisyan vs Uila Mau’u Set For July 11 In San Francisco]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T20:04:50.981Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/fabio-wardley-becomes-wbo-titleholder-after-usyk-vacates-belt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T15:12:37.966Z</news:publication_date>
-      <news:title><![CDATA[Fabio Wardley Becomes WBO Titleholder; Usyk Remains Champion]]></news:title>
     </news:news>
   </url>
 </urlset>
