@@ -13,4 +13,16 @@
       <news:title><![CDATA[Bakhodir Jalolov Stops Agron Smakici But Fails To Ignite Buzz]]></news:title>
     </news:news>
   </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T16:19:46.919Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
+    </news:news>
+  </url>
 </urlset>
