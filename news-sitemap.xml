@@ -9,32 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-14T03:00:54.084Z</news:publication_date>
+      <news:publication_date>2026-05-15T17:22:02.696Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Filip Hrgovic: Dangerous Atmosphere in Doncaster]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-stops-fabio-wardley-in-brutal-wbo-heavyweight-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T15:44:59.791Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois Stops Fabio Wardley in Brutal War to Claim WBO Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-filip-hrgovic-may-16-doncaster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T15:44:59.791Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Filip Hrgovic Set for May 16 Clash in Doncaster]]></news:title>
     </news:news>
   </url>
 </urlset>
