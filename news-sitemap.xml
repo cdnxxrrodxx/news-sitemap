@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-knocks-out-richard-torrez-jr-round-2</loc>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-dave-allen-round-3-doncaster</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-23T20:31:23.612Z</news:publication_date>
-      <news:title><![CDATA[Frank Sanchez Knocks Out Richard Torrez Jr in Round 2 of IBF Shot]]></news:title>
+      <news:publication_date>2026-05-25T17:34:23.834Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Stops Dave Allen in Round 3 in Doncaster]]></news:title>
     </news:news>
   </url>
 </urlset>
