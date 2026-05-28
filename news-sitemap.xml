@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-dave-allen-round-3-doncaster</loc>
+    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-vs-tony-yoka-july-11-moscow</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-25T17:34:23.834Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgovic Stops Dave Allen in Round 3 in Doncaster]]></news:title>
+      <news:publication_date>2026-05-27T15:54:11.148Z</news:publication_date>
+      <news:title><![CDATA[Murat Gassiev vs Tony Yoka Official For July 11 In Moscow]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-knocks-out-richard-torrez-jr-round-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T15:48:59.091Z</news:publication_date>
+      <news:title><![CDATA[Frank Sanchez Knocks Out Richard Torrez Jr in Round 2 of IBF Shot]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-july-25-riyadh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T15:48:59.091Z</news:publication_date>
+      <news:title><![CDATA[Anthony Joshua vs Kristian Prenga Set for July 25 in Riyadh]]></news:title>
     </news:news>
   </url>
 </urlset>
