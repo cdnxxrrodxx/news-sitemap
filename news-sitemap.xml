@@ -13,40 +13,4 @@
       <news:title><![CDATA[Artem Suslenkov vs Joe Joyce Set for July 11 Heavyweight Boxing Clash ]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/antonio-carlesimo-vs-angelo-morejon-italian-heavyweight-title</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T02:06:39.825Z</news:publication_date>
-      <news:title><![CDATA[Boxing: Antonio Carlesimo vs Angelo Morejon Set for Italian Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-vs-tony-yoka-july-11-moscow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T12:04:13.511Z</news:publication_date>
-      <news:title><![CDATA[Murat Gassiev vs Tony Yoka Official For July 11 In Moscow]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-stops-fabio-wardley-in-brutal-wbo-heavyweight-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T12:04:13.511Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois Stops Fabio Wardley in Brutal War to Claim WBO Title]]></news:title>
-    </news:news>
-  </url>
 </urlset>
