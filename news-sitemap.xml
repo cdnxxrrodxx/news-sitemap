@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/josh-popper-vs-bruce-seldon-jr-result-ko-atlantic-city</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T04:07:01.819Z</news:publication_date>
+      <news:title><![CDATA[Josh Popper Knocks Out Bruce Seldon Jr. In 30 Seconds In Atlantic City]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/khalidov-vs-yallyev-russian-heavyweight-showdown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T04:06:56.519Z</news:publication_date>
+      <news:title><![CDATA[Murad Khalidov and Arslan Yallyev Ready for Russian Showdown]]></news:title>
+    </news:news>
+  </url>
 </urlset>
