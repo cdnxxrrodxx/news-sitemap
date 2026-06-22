@@ -9,32 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-20T15:59:29.223Z</news:publication_date>
+      <news:publication_date>2026-06-22T16:24:24.403Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Filip Hrgovic Official for August 29 in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-joe-joyce-july-11-moscow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T21:21:14.676Z</news:publication_date>
-      <news:title><![CDATA[Artem Suslenkov vs Joe Joyce Set for July 11 Heavyweight Boxing Clash ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-dave-allen-round-3-doncaster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T21:21:14.676Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgovic Stops Dave Allen in Round 3 in Doncaster]]></news:title>
     </news:news>
   </url>
 </urlset>
