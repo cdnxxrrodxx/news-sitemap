@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-elevated-wbc-heavyweight-champion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T01:12:52.552Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Elevated to WBC Heavyweight Title After Usyk Vacates]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/kacper-meyna-vs-damian-knyba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T16:53:14.432Z</news:publication_date>
+      <news:title><![CDATA[Kacper Meyna vs Damian Knyba Set for Major Polish Heavyweight Clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-vacates-heavyweight-world-titles-new-era-begins</loc>
     <news:news>
       <news:publication>
@@ -35,6 +59,30 @@
       </news:publication>
       <news:publication_date>2026-06-26T18:47:06.650Z</news:publication_date>
       <news:title><![CDATA[Josh Popper Knocks Out Bruce Seldon Jr. In 30 Seconds In Atlantic City]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-vs-tony-yoka-july-11-moscow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T17:57:33.305Z</news:publication_date>
+      <news:title><![CDATA[Murat Gassiev vs Tony Yoka Official For July 11 In Moscow]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-knocks-out-richard-torrez-jr-round-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T16:52:41.073Z</news:publication_date>
+      <news:title><![CDATA[Frank Sanchez Knocks Out Richard Torrez Jr in Round 2 of IBF Shot]]></news:title>
     </news:news>
   </url>
 </urlset>
