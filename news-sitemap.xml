@@ -2,4 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-vladyslav-sirenko-july-26-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T14:03:26.492Z</news:publication_date>
+      <news:title><![CDATA[Otto Wallin vs. Vladyslav Sirenko Confirmed for July 26]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-savage-preview-august-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T13:36:31.954Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Faces DeAndre Savage in Biggest Test Yet]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-mariusz-wach-thailand-tune-up-july-24</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T14:03:26.492Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns Against Mariusz Wach In Thailand On July 24]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-announced-croke-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T13:36:00.298Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
+    </news:news>
+  </url>
 </urlset>
