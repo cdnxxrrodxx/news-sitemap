@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-vs-peter-kadiru-preview-july-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T18:39:45.480Z</news:publication_date>
+      <news:title><![CDATA[Murat Gassiev Defends WBA Title Against Peter Kadiru]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-vladyslav-sirenko-july-26-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-06T14:03:26.492Z</news:publication_date>
+      <news:publication_date>2026-07-06T16:35:12.931Z</news:publication_date>
       <news:title><![CDATA[Otto Wallin vs. Vladyslav Sirenko Confirmed for July 26]]></news:title>
     </news:news>
   </url>
@@ -21,7 +33,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-06T13:36:31.954Z</news:publication_date>
+      <news:publication_date>2026-07-06T16:35:12.931Z</news:publication_date>
       <news:title><![CDATA[Teremoana Faces DeAndre Savage in Biggest Test Yet]]></news:title>
     </news:news>
   </url>
@@ -47,6 +59,42 @@
       </news:publication>
       <news:publication_date>2026-07-06T13:36:00.298Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/oleksandr-usyk-vacates-heavyweight-world-titles-new-era-begins</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T16:50:50.880Z</news:publication_date>
+      <news:title><![CDATA[Oleksandr Usyk Vacates Heavyweight World Titles, New Era Begins]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-joe-joyce-july-11-moscow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T16:35:12.931Z</news:publication_date>
+      <news:title><![CDATA[Artem Suslenkov vs Joe Joyce Set for July 11 Heavyweight Boxing Clash ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/khalidov-vs-yallyev-russian-heavyweight-showdown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T16:35:12.931Z</news:publication_date>
+      <news:title><![CDATA[Murad Khalidov and Arslan Yallyev Ready for Russian Showdown]]></news:title>
     </news:news>
   </url>
 </urlset>
