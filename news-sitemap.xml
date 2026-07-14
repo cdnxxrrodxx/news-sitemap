@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/what-makes-a-boxing-match-truly-great</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T23:09:14.033Z</news:publication_date>
+      <news:title><![CDATA[Why Boxing's Greatest Fights Stand the Test of Time]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/murad-khalidov-vs-arslan-yallyev-results</loc>
     <news:news>
       <news:publication>
@@ -35,66 +47,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T22:15:02.429Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev Dominates Peter Kadiru in Moscow for WBA]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/murat-gassiev-vs-peter-kadiru-preview-july-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:48:38.522Z</news:publication_date>
-      <news:title><![CDATA[Murat Gassiev Defends WBA Title Against Peter Kadiru]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-savage-preview-august-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:01:04.969Z</news:publication_date>
-      <news:title><![CDATA[Teremoana Faces DeAndre Savage in Biggest Test Yet]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-joe-joyce-july-11-moscow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T19:55:26.793Z</news:publication_date>
-      <news:title><![CDATA[Artem Suslenkov vs Joe Joyce Set for July 11 Heavyweight Boxing Clash ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/khalidov-vs-yallyev-russian-heavyweight-showdown</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T17:13:27.711Z</news:publication_date>
-      <news:title><![CDATA[Murad Khalidov and Arslan Yallyev Ready for Russian Showdown]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/artem-suslenkov-vs-artur-mann-fight-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T19:55:51.492Z</news:publication_date>
-      <news:title><![CDATA[Artem Suslenkov vs Artur Mann Ends in TKO in Serpukhov, Russia]]></news:title>
     </news:news>
   </url>
 </urlset>
