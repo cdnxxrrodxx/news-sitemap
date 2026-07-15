@@ -3,38 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:26:57.767Z</news:publication_date>
+      <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/what-makes-a-boxing-match-truly-great</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T23:09:14.033Z</news:publication_date>
+      <news:publication_date>2026-07-15T11:22:58.206Z</news:publication_date>
       <news:title><![CDATA[Why Boxing's Greatest Fights Stand the Test of Time]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/murad-khalidov-vs-arslan-yallyev-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T22:13:59.454Z</news:publication_date>
-      <news:title><![CDATA[Arslan Yallyev Stops Murad Khalidov by TKO in Moscow]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/suslenkov-vs-joyce-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T13:47:52.793Z</news:publication_date>
-      <news:title><![CDATA[Artem Suslenkov Stops Joe Joyce in Round 11 to Stay Unbeaten]]></news:title>
     </news:news>
   </url>
 
@@ -45,8 +33,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-12T22:15:02.429Z</news:publication_date>
+      <news:publication_date>2026-07-14T18:44:34.361Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev Dominates Peter Kadiru in Moscow for WBA]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-elevated-wbc-heavyweight-champion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T11:22:58.206Z</news:publication_date>
+      <news:title><![CDATA[Agit Kabayel Elevated to WBC Heavyweight Title After Usyk Vacates]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-august-29-london</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T18:44:08.729Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Filip Hrgovic Official for August 29 in London]]></news:title>
     </news:news>
   </url>
 </urlset>
