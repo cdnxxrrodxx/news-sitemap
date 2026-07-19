@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T18:53:27.785Z</news:publication_date>
-      <news:title><![CDATA[The Evolution of Boxing Gloves and Modern Training | Boxing]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
     <news:news>
       <news:publication>
