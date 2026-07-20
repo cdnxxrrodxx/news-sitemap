@@ -3,14 +3,98 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:39:31.621Z</news:publication_date>
+      <news:title><![CDATA[The Evolution of Boxing Gloves and Modern Training | Boxing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-18T03:39:05.041Z</news:publication_date>
+      <news:publication_date>2026-07-20T04:49:06.209Z</news:publication_date>
       <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/what-makes-a-boxing-match-truly-great</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:49:18.059Z</news:publication_date>
+      <news:title><![CDATA[Why Boxing's Greatest Fights Stand the Test of Time]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/murad-khalidov-vs-arslan-yallyev-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:49:22.876Z</news:publication_date>
+      <news:title><![CDATA[Arslan Yallyev Stops Murad Khalidov by TKO in Moscow]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/suslenkov-vs-joyce-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:50:54.213Z</news:publication_date>
+      <news:title><![CDATA[Artem Suslenkov Stops Joe Joyce in Round 11 to Stay Unbeaten]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-vladyslav-sirenko-july-26-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:50:54.213Z</news:publication_date>
+      <news:title><![CDATA[Otto Wallin vs. Vladyslav Sirenko Confirmed for July 26]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-mariusz-wach-thailand-tune-up-july-24</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:39:31.621Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Returns Against Mariusz Wach In Thailand On July 24]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-july-25-riyadh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:49:29.283Z</news:publication_date>
+      <news:title><![CDATA[Anthony Joshua vs Kristian Prenga Set for July 25 in Jeddah]]></news:title>
     </news:news>
   </url>
 </urlset>
