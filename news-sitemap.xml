@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-vs-mariusz-wach-results-fight-report</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-21T21:42:52.484Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua vs Kristian Prenga: Fight Preview in Jeddah]]></news:title>
+      <news:publication_date>2026-07-24T02:16:23.154Z</news:publication_date>
+      <news:title><![CDATA[tyson-fury-vs-mariusz-wach-results-fight-report]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-july-25-riyadh</loc>
+    <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-21T21:42:52.484Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua vs Kristian Prenga Set for July 25 in Jeddah]]></news:title>
+      <news:publication_date>2026-07-23T22:19:01.839Z</news:publication_date>
+      <news:title><![CDATA[The Evolution of Boxing Gloves and Modern Training | Boxing]]></news:title>
     </news:news>
   </url>
 </urlset>
