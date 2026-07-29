@@ -15,42 +15,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/vladyslav-sirenko-knocks-out-otto-wallin-round-10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T04:49:34.917Z</news:publication_date>
-      <news:title><![CDATA[Sirenko Knocks Out Wallin in Stunning Round 10 Finish]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T13:41:00.164Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua Climbs Off Canvas Twice to Knock Out Kristian Prenga]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T13:41:00.164Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua vs Kristian Prenga: Fight Preview in Jeddah]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
     <news:news>
       <news:publication>
@@ -71,18 +35,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T01:19:05.243Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev Dominates Peter Kadiru in Moscow for WBA]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/otto-wallin-vs-vladyslav-sirenko-july-26-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T04:49:34.917Z</news:publication_date>
-      <news:title><![CDATA[Otto Wallin vs. Vladyslav Sirenko Confirmed for July 26]]></news:title>
     </news:news>
   </url>
 </urlset>
