@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/brandon-moore-vs-bryant-jennings-preview-august-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T23:04:03.015Z</news:publication_date>
-      <news:title><![CDATA[Brandon Moore Meets Bryant Jennings August 29 in Detroit ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/gassiev-vs-kadiru-results-fight-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T23:04:03.015Z</news:publication_date>
-      <news:title><![CDATA[Murat Gassiev Dominates Peter Kadiru in Moscow for WBA]]></news:title>
-    </news:news>
-  </url>
 </urlset>
