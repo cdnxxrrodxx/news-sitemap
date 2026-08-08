@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-cleared-to-return-after-suspension-lifted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T18:40:54.742Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker Cleared to Return After Suspension Lifted]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-upgraded-vacant-ibf</loc>
     <news:news>
       <news:publication>
@@ -23,42 +11,6 @@
       </news:publication>
       <news:publication_date>2026-08-07T11:56:25.206Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Filip Hrgović Upgraded to Vacant IBF Title Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/brandon-moore-vs-bryant-jennings-preview-august-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T18:40:54.742Z</news:publication_date>
-      <news:title><![CDATA[Brandon Moore Meets Bryant Jennings August 29 in Detroit ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/vladyslav-sirenko-knocks-out-otto-wallin-round-10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T18:40:54.742Z</news:publication_date>
-      <news:title><![CDATA[Sirenko Knocks Out Wallin in Stunning Round 10 Finish]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T18:40:54.742Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua Climbs Off Canvas Twice to Knock Out Kristian Prenga]]></news:title>
     </news:news>
   </url>
 </urlset>
