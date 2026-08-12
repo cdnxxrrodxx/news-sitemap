@@ -3,14 +3,50 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-deandre-savage-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T12:24:13.006Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-stops-mariusz-wach-fight-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-11T13:07:14.535Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury Stops Mariusz Wach In Seven Rounds In Thailand]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-10T23:40:51.154Z</news:publication_date>
+      <news:publication_date>2026-08-11T13:07:14.535Z</news:publication_date>
       <news:title><![CDATA[The Evolution of Boxing Gloves and Modern Training | Boxing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-savage-preview-august-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T12:21:05.578Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Faces DeAndre Savage in Biggest Test Yet]]></news:title>
     </news:news>
   </url>
 </urlset>
