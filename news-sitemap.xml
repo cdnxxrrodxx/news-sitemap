@@ -3,25 +3,13 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-deandre-savage-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T11:15:51.103Z</news:publication_date>
-      <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-announced-croke-park</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-14T11:15:51.103Z</news:publication_date>
+      <news:publication_date>2026-08-15T17:33:11.310Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
     </news:news>
   </url>
