@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-announced-croke-park</loc>
+    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-heavyweight-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-16T14:53:06.224Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
+      <news:publication_date>2026-08-18T16:00:06.440Z</news:publication_date>
+      <news:title><![CDATA[Vartan Arutyunyan vs Basir Abakarov Heavyweight Preview]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T16:00:28.264Z</news:publication_date>
+      <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
     </news:news>
   </url>
 </urlset>
