@@ -15,18 +15,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-heavyweight-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T15:50:38.549Z</news:publication_date>
-      <news:title><![CDATA[Vartan Arutyunyan vs Basir Abakarov Heavyweight Preview]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/joseph-parker-cleared-to-return-after-suspension-lifted</loc>
     <news:news>
       <news:publication>
@@ -35,18 +23,6 @@
       </news:publication>
       <news:publication_date>2026-08-21T04:49:35.717Z</news:publication_date>
       <news:title><![CDATA[Joseph Parker Cleared to Return After Suspension Lifted]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T15:50:38.549Z</news:publication_date>
-      <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
     </news:news>
   </url>
 </urlset>
