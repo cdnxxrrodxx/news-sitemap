@@ -3,26 +3,74 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T05:06:29.209Z</news:publication_date>
+      <news:title><![CDATA[Nelson Hysa vs Thomas Narmo Set for Itauma-Hrgovic Card]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T18:36:41.416Z</news:publication_date>
+      <news:title><![CDATA[Vartan Arutyunyan Drops Basir Abakarov, Remains Unbeaten at 13-0]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/johnny-fisher-vs-michael-pirotton-zuffa-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-21T04:52:21.727Z</news:publication_date>
+      <news:publication_date>2026-08-22T18:36:41.416Z</news:publication_date>
       <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/joseph-parker-cleared-to-return-after-suspension-lifted</loc>
+    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-heavyweight-preview</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-21T04:49:35.717Z</news:publication_date>
-      <news:title><![CDATA[Joseph Parker Cleared to Return After Suspension Lifted]]></news:title>
+      <news:publication_date>2026-08-22T18:36:41.416Z</news:publication_date>
+      <news:title><![CDATA[Vartan Arutyunyan vs Basir Abakarov Heavyweight Preview]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-upgraded-vacant-ibf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T18:36:41.416Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma vs Filip Hrgović Upgraded to Vacant IBF Title Fight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T04:38:56.127Z</news:publication_date>
+      <news:title><![CDATA[Anthony Joshua Climbs Off Canvas Twice to Knock Out Kristian Prenga]]></news:title>
     </news:news>
   </url>
 </urlset>
