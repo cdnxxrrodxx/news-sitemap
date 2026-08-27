@@ -3,38 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T19:10:11.313Z</news:publication_date>
-      <news:title><![CDATA[Nelson Hysa vs Thomas Narmo Set for Itauma-Hrgovic Card]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-upgraded-vacant-ibf</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-24T19:13:42.594Z</news:publication_date>
+      <news:publication_date>2026-08-27T01:35:10.520Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Filip Hrgović Upgraded to Vacant IBF Title Fight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/anthony-joshua-vs-kristian-prenga-fight-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T19:10:11.313Z</news:publication_date>
-      <news:title><![CDATA[Anthony Joshua Climbs Off Canvas Twice to Knock Out Kristian Prenga]]></news:title>
     </news:news>
   </url>
 </urlset>
