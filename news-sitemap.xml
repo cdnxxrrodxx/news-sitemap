@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-results-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T01:38:12.262Z</news:publication_date>
+      <news:title><![CDATA[moses-itauma-vs-filip-hrgovic-results-fight-report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T01:35:48.419Z</news:publication_date>
+      <news:title><![CDATA[nelson-hysa-vs-thomas-narmo-results]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/guido-vianello-vs-moses-jolly-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T01:34:44.017Z</news:publication_date>
+      <news:title><![CDATA[guido-vianello-vs-moses-jolly-results]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/how-nutrition-has-changed-heavyweight-boxing</loc>
     <news:news>
       <news:publication>
@@ -11,18 +47,6 @@
       </news:publication>
       <news:publication_date>2026-08-28T16:19:36.916Z</news:publication_date>
       <news:title><![CDATA[How Nutrition Has Changed Heavyweight Boxing and Modern Training]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-upgraded-vacant-ibf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T01:35:10.520Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma vs Filip Hrgović Upgraded to Vacant IBF Title Fight]]></news:title>
     </news:news>
   </url>
 </urlset>
