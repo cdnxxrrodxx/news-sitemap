@@ -3,38 +3,62 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-vs-filip-hrgovic-results-fight-report</loc>
+    <loc>https://www.heavyweightboxing.com/news/brandon-moore-vs-bryant-jennings-result</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T01:38:12.262Z</news:publication_date>
-      <news:title><![CDATA[moses-itauma-vs-filip-hrgovic-results-fight-report]]></news:title>
+      <news:publication_date>2026-08-30T14:36:42.928Z</news:publication_date>
+      <news:title><![CDATA[Brandon Moore Defeats Bryant Jennings by Unanimous Decision in Detroit]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-results</loc>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T01:35:48.419Z</news:publication_date>
-      <news:title><![CDATA[nelson-hysa-vs-thomas-narmo-results]]></news:title>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/guido-vianello-vs-moses-jolly-results</loc>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-moses-itauma-ibf-heavyweight-title</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-29T01:34:44.017Z</news:publication_date>
-      <news:title><![CDATA[guido-vianello-vs-moses-jolly-results]]></news:title>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-stops-thomas-narmo-second-round</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Nelson Hysa Stops Thomas Narmo in Two Rounds at The O2]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/guido-vianello-moses-jolly-draw-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Guido Vianello vs Moses Jolly Results: Heavyweights Fight to Draw]]></news:title>
     </news:news>
   </url>
 
@@ -47,6 +71,54 @@
       </news:publication>
       <news:publication_date>2026-08-28T16:19:36.916Z</news:publication_date>
       <news:title><![CDATA[How Nutrition Has Changed Heavyweight Boxing and Modern Training]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Nelson Hysa vs Thomas Narmo Set for Itauma-Hrgovic Card]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Vartan Arutyunyan Drops Basir Abakarov, Remains Unbeaten at 13-0]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-vs-michael-pirotton-zuffa-boxing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T14:36:55.081Z</news:publication_date>
+      <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-deandre-savage-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
     </news:news>
   </url>
 </urlset>
