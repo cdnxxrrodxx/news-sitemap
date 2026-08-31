@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-30T14:36:42.928Z</news:publication_date>
+      <news:publication_date>2026-08-31T02:16:46.836Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore Defeats Bryant Jennings by Unanimous Decision in Detroit]]></news:title>
     </news:news>
   </url>
@@ -63,18 +63,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/how-nutrition-has-changed-heavyweight-boxing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:19:36.916Z</news:publication_date>
-      <news:title><![CDATA[How Nutrition Has Changed Heavyweight Boxing and Modern Training]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
     <news:news>
       <news:publication>
@@ -119,6 +107,18 @@
       </news:publication>
       <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
       <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T02:17:02.651Z</news:publication_date>
+      <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
     </news:news>
   </url>
 </urlset>
