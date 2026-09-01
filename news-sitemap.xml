@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T14:01:44.738Z</news:publication_date>
+      <news:title><![CDATA[Andy Ruiz Jr. vs. Damian Knyba: Fight Preview & Prediction]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/brandon-moore-vs-bryant-jennings-result</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-31T02:16:46.836Z</news:publication_date>
+      <news:publication_date>2026-09-01T00:44:56.291Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore Defeats Bryant Jennings by Unanimous Decision in Detroit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
     </news:news>
   </url>
 
@@ -33,56 +33,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
+      <news:publication_date>2026-09-01T04:38:06.803Z</news:publication_date>
       <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-stops-thomas-narmo-second-round</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Nelson Hysa Stops Thomas Narmo in Two Rounds at The O2]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/guido-vianello-moses-jolly-draw-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Guido Vianello vs Moses Jolly Results: Heavyweights Fight to Draw]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Nelson Hysa vs Thomas Narmo Set for Itauma-Hrgovic Card]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/vartan-arutyunyan-vs-basir-abakarov-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Vartan Arutyunyan Drops Basir Abakarov, Remains Unbeaten at 13-0]]></news:title>
     </news:news>
   </url>
 
@@ -93,20 +45,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-30T14:36:55.081Z</news:publication_date>
+      <news:publication_date>2026-09-01T00:44:56.291Z</news:publication_date>
       <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/teremoana-vs-deandre-savage-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T02:22:45.828Z</news:publication_date>
-      <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
     </news:news>
   </url>
 
@@ -117,7 +57,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-31T02:17:02.651Z</news:publication_date>
+      <news:publication_date>2026-09-01T04:38:06.803Z</news:publication_date>
       <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
     </news:news>
   </url>
