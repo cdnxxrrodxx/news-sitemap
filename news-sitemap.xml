@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T14:01:44.738Z</news:publication_date>
+      <news:publication_date>2026-09-02T19:47:53.267Z</news:publication_date>
       <news:title><![CDATA[Andy Ruiz Jr. vs. Damian Knyba: Fight Preview & Prediction]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/brandon-moore-vs-bryant-jennings-result</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T00:44:56.291Z</news:publication_date>
-      <news:title><![CDATA[Brandon Moore Defeats Bryant Jennings by Unanimous Decision in Detroit]]></news:title>
     </news:news>
   </url>
 
@@ -33,32 +21,32 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T04:38:06.803Z</news:publication_date>
+      <news:publication_date>2026-09-03T01:52:27.240Z</news:publication_date>
       <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-vs-michael-pirotton-zuffa-boxing</loc>
+    <loc>https://www.heavyweightboxing.com/news/guido-vianello-moses-jolly-draw-results</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T00:44:56.291Z</news:publication_date>
-      <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
+      <news:publication_date>2026-09-02T23:26:49.435Z</news:publication_date>
+      <news:title><![CDATA[Guido Vianello vs Moses Jolly Results: Heavyweights Fight to Draw]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-newark</loc>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-announced-croke-park</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-01T04:38:06.803Z</news:publication_date>
-      <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
+      <news:publication_date>2026-09-02T23:26:38.050Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
     </news:news>
   </url>
 </urlset>
