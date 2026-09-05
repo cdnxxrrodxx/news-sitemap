@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T05:21:03.880Z</news:publication_date>
+      <news:title><![CDATA[Damian Knyba Upsets Andy Ruiz Jr. by Decision in Newark]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T01:36:35.306Z</news:publication_date>
+      <news:title><![CDATA[dave-allen-vs-thomas-carty-results]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-preview</loc>
     <news:news>
       <news:publication>
