@@ -9,7 +9,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T05:21:03.880Z</news:publication_date>
+      <news:publication_date>2026-09-05T20:18:07.528Z</news:publication_date>
       <news:title><![CDATA[Damian Knyba Upsets Andy Ruiz Jr. by Decision in Newark]]></news:title>
     </news:news>
   </url>
@@ -21,44 +21,20 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-05T01:36:35.306Z</news:publication_date>
-      <news:title><![CDATA[dave-allen-vs-thomas-carty-results]]></news:title>
+      <news:publication_date>2026-09-05T22:32:24.135Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Thomas Carty Ends in Bizarre No Contest]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-preview</loc>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-04T14:07:02.208Z</news:publication_date>
-      <news:title><![CDATA[Andy Ruiz Jr. vs. Damian Knyba: Fight Preview & Prediction]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-moses-itauma-ibf-heavyweight-title</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T14:07:02.208Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/guido-vianello-moses-jolly-draw-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T14:07:02.208Z</news:publication_date>
-      <news:title><![CDATA[Guido Vianello vs Moses Jolly Results: Heavyweights Fight to Draw]]></news:title>
+      <news:publication_date>2026-09-05T20:18:22.934Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
     </news:news>
   </url>
 
@@ -69,7 +45,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-04T14:07:02.208Z</news:publication_date>
+      <news:publication_date>2026-09-05T20:14:06.320Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
     </news:news>
   </url>
