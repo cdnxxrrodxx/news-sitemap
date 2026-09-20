@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-18T20:16:24.331Z</news:publication_date>
+      <news:publication_date>2026-09-20T13:32:15.517Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Solomon Dacres Set for October 17]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/andy-ruiz-jr-vs-damian-knyba-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T12:41:50.654Z</news:publication_date>
-      <news:title><![CDATA[Damian Knyba Upsets Andy Ruiz Jr. by Decision in Newark]]></news:title>
     </news:news>
   </url>
 
@@ -35,18 +23,6 @@
       </news:publication>
       <news:publication_date>2026-09-18T16:24:08.822Z</news:publication_date>
       <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-moses-itauma-ibf-heavyweight-title</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T12:41:50.654Z</news:publication_date>
-      <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
     </news:news>
   </url>
 
