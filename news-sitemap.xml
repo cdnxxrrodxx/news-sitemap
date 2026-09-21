@@ -13,28 +13,4 @@
       <news:title><![CDATA[Bakhodir Jalolov vs Solomon Dacres Set for October 17]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T16:24:08.822Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/nelson-hysa-stops-thomas-narmo-second-round</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T19:45:32.013Z</news:publication_date>
-      <news:title><![CDATA[Nelson Hysa Stops Thomas Narmo in Two Rounds at The O2]]></news:title>
-    </news:news>
-  </url>
 </urlset>
