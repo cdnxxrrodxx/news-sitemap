@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/tyson-fury-anthony-joshua-fight-announced-cardiff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
+      <news:title><![CDATA[Tyson Fury vs. Anthony Joshua Official for December 11]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-solomon-dacres-london</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       </news:publication>
       <news:publication_date>2026-09-23T01:01:05.669Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Solomon Dacres Set for October 17]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/george-chuvalo-dies-canadian-heavyweight-boxing-legend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
+      <news:title><![CDATA[George Chuvalo Dies at 89: Canadian Heavyweight Legend]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
+      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
     </news:news>
   </url>
 
