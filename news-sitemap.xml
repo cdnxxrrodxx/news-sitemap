@@ -9,20 +9,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
+      <news:publication_date>2026-09-24T16:31:54.837Z</news:publication_date>
       <news:title><![CDATA[Tyson Fury vs. Anthony Joshua Official for December 11]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/bakhodir-jalolov-vs-solomon-dacres-london</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T01:01:05.669Z</news:publication_date>
-      <news:title><![CDATA[Bakhodir Jalolov vs Solomon Dacres Set for October 17]]></news:title>
     </news:news>
   </url>
 
@@ -47,30 +35,6 @@
       </news:publication>
       <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
       <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jared-anderson-vs-solomon-dacres-uk-debut-manchester</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T01:01:05.669Z</news:publication_date>
-      <news:title><![CDATA[Jared Anderson vs Solomon Dacres Set for UK Debut on May 9th]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/frank-sanchez-vs-richard-torrez-jr-ibf-heavyweight-eliminator-may-23</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T01:01:05.669Z</news:publication_date>
-      <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
     </news:news>
   </url>
 </urlset>
