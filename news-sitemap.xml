@@ -3,38 +3,50 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-vs-michael-pirotton-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T13:39:25.082Z</news:publication_date>
+      <news:title><![CDATA[johnny-fisher-vs-michael-pirotton-result]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/tyson-fury-anthony-joshua-fight-announced-cardiff</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T16:31:54.837Z</news:publication_date>
+      <news:publication_date>2026-09-26T02:31:49.756Z</news:publication_date>
       <news:title><![CDATA[Tyson Fury vs. Anthony Joshua Official for December 11]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/george-chuvalo-dies-canadian-heavyweight-boxing-legend</loc>
+    <loc>https://www.heavyweightboxing.com/news/filip-hrgovic-stops-moses-itauma-ibf-heavyweight-title</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
-      <news:title><![CDATA[George Chuvalo Dies at 89: Canadian Heavyweight Legend]]></news:title>
+      <news:publication_date>2026-09-26T13:35:49.705Z</news:publication_date>
+      <news:title><![CDATA[Filip Hrgovic Stops Moses Itauma in Round 9 to Win IBF Title]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/daniel-dubois-vs-fabio-wardley-2</loc>
+    <loc>https://www.heavyweightboxing.com/news/johnny-fisher-vs-michael-pirotton-zuffa-boxing</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-24T14:49:20.576Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois vs Fabio Wardley II Confirmed for October 17 at O2 Arena]]></news:title>
+      <news:publication_date>2026-09-26T13:35:49.705Z</news:publication_date>
+      <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
     </news:news>
   </url>
 </urlset>
