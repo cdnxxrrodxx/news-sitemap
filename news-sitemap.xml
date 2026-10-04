@@ -2,4 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/kacper-meyna-victor-ramirez-result-koszalin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T03:51:57.653Z</news:publication_date>
+      <news:title><![CDATA[Kacper Meyna Beats Victor Ramírez After Two Knockdowns]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T03:14:21.686Z</news:publication_date>
+      <news:title><![CDATA[Dave Allen vs Thomas Carty Ends in Bizarre No Contest]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/jarell-miller-lenier-pero-result-las-vegas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T01:22:24.084Z</news:publication_date>
+      <news:title><![CDATA[Jarrell Miller Defeats Lenier Pero in WBA Eliminator Bout]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T03:16:25.903Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
+    </news:news>
+  </url>
 </urlset>
