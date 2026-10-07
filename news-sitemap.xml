@@ -3,62 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/kacper-meyna-victor-ramirez-result-koszalin</loc>
+    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-legacy-power-passion</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T00:41:19.997Z</news:publication_date>
-      <news:title><![CDATA[Kacper Meyna Beats Victor Ramírez After Two Knockdowns]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/clash-for-canada-alexis-barriere-faces-stan-surmacz-in-montreal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:42:04.405Z</news:publication_date>
-      <news:title><![CDATA[Alexis Barrière vs Stan Surmacz Set for October 21 in Montreal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/dave-allen-vs-thomas-carty-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T00:41:19.997Z</news:publication_date>
-      <news:title><![CDATA[Dave Allen vs Thomas Carty Ends in Bizarre No Contest]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/jarell-miller-lenier-pero-result-las-vegas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T00:41:19.997Z</news:publication_date>
-      <news:title><![CDATA[Jarrell Miller Defeats Lenier Pero in WBA Eliminator Bout]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T00:41:19.997Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
+      <news:publication_date>2026-10-07T11:45:51.270Z</news:publication_date>
+      <news:title><![CDATA[Heavyweight Boxing: A Legacy of Power, Passion and Fans]]></news:title>
     </news:news>
   </url>
 </urlset>
