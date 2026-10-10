@@ -3,50 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/dubois-wardley-2-fight-week-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
+      <news:title><![CDATA[Dubois vs Wardley 2 Preview: WBO Title Rematch at The O2]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/5-boxing-fan-traditions-big-fight-nights</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T13:11:06.121Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[5 Boxing Fan Traditions to Honour on Big Fight Nights]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/david-adeleye-alexander-flores-matchroom-debut-november-14</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[David Adeleye vs Alexander Flores Set for November 14]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/heavyweight-boxing-legacy-power-passion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Heavyweight Boxing: A Legacy of Power, Passion and Fans]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/kacper-meyna-victor-ramirez-result-koszalin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Kacper Meyna Beats Victor Ramírez After Two Knockdowns]]></news:title>
     </news:news>
   </url>
 
@@ -81,7 +57,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Johnny Fisher Edges Michael Pirotton by Majority Decision]]></news:title>
     </news:news>
   </url>
@@ -93,7 +69,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T15:58:20.870Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Fury–Joshua Tickets Sell Out Within an Hour for Cardiff Clash]]></news:title>
     </news:news>
   </url>
@@ -105,7 +81,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Solomon Dacres Set for October 17]]></news:title>
     </news:news>
   </url>
@@ -117,20 +93,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[George Chuvalo Dies at 89: Canadian Heavyweight Legend]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/clash-for-canada-alexis-barriere-faces-stan-surmacz-in-montreal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Alexis Barrière vs Stan Surmacz Set for October 21 in Montreal]]></news:title>
     </news:news>
   </url>
 
@@ -165,7 +129,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Andy Ruiz Jr. vs. Damian Knyba: Fight Preview & Prediction]]></news:title>
     </news:news>
   </url>
@@ -231,18 +195,6 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/how-nutrition-has-changed-heavyweight-boxing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[How Nutrition Has Changed Heavyweight Boxing and Modern Training]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/news/nelson-hysa-vs-thomas-narmo-itauma-hrgovic-undercard</loc>
     <news:news>
       <news:publication>
@@ -261,7 +213,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Vartan Arutyunyan Drops Basir Abakarov, Remains Unbeaten at 13-0]]></news:title>
     </news:news>
   </url>
@@ -273,7 +225,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Johnny Fisher vs Michael Pirotton Set for Zuffa Boxing 11]]></news:title>
     </news:news>
   </url>
@@ -285,7 +237,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Vartan Arutyunyan vs Basir Abakarov Heavyweight Preview]]></news:title>
     </news:news>
   </url>
@@ -297,7 +249,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Teremoana Teremoana Knocks Out DeAndre Savage in Second Round]]></news:title>
     </news:news>
   </url>
@@ -309,7 +261,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Joseph Parker Cleared to Return After Suspension Lifted]]></news:title>
     </news:news>
   </url>
@@ -321,7 +273,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Filip Hrgović Upgraded to Vacant IBF Title Fight]]></news:title>
     </news:news>
   </url>
@@ -333,7 +285,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Brandon Moore Meets Bryant Jennings August 29 in Detroit ]]></news:title>
     </news:news>
   </url>
@@ -357,7 +309,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Anthony Joshua Climbs Off Canvas Twice to Knock Out Kristian Prenga]]></news:title>
     </news:news>
   </url>
@@ -381,20 +333,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Anthony Joshua vs Kristian Prenga: Fight Preview in Jeddah]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/evolution-of-boxing-gloves-modern-training</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[The Evolution of Boxing Gloves and Modern Training | Boxing]]></news:title>
     </news:news>
   </url>
 
@@ -405,7 +345,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Andy Ruiz Jr. Returns Against Damian Knyba on September 4]]></news:title>
     </news:news>
   </url>
@@ -417,7 +357,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Why Boxing's Greatest Fights Stand the Test of Time]]></news:title>
     </news:news>
   </url>
@@ -441,7 +381,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Artem Suslenkov Stops Joe Joyce in Round 11 to Stay Unbeaten]]></news:title>
     </news:news>
   </url>
@@ -465,7 +405,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev Defends WBA Title Against Peter Kadiru]]></news:title>
     </news:news>
   </url>
@@ -477,7 +417,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T17:15:54.972Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Otto Wallin vs. Vladyslav Sirenko Confirmed for July 26]]></news:title>
     </news:news>
   </url>
@@ -489,7 +429,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Teremoana Faces DeAndre Savage in Biggest Test Yet]]></news:title>
     </news:news>
   </url>
@@ -513,7 +453,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Thomas Carty Official for Croke Park on September 5]]></news:title>
     </news:news>
   </url>
@@ -525,7 +465,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Agit Kabayel Elevated to WBC Heavyweight Title After Usyk Vacates]]></news:title>
     </news:news>
   </url>
@@ -537,7 +477,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Kacper Meyna vs Damian Knyba Set for Major Polish Heavyweight Clash]]></news:title>
     </news:news>
   </url>
@@ -561,7 +501,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Moses Itauma vs Filip Hrgovic Official for August 29 in London]]></news:title>
     </news:news>
   </url>
@@ -573,7 +513,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Josh Popper Knocks Out Bruce Seldon Jr. In 30 Seconds In Atlantic City]]></news:title>
     </news:news>
   </url>
@@ -585,7 +525,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Artem Suslenkov vs Joe Joyce Set for July 11 Heavyweight Boxing Clash ]]></news:title>
     </news:news>
   </url>
@@ -597,7 +537,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Boxing: Antonio Carlesimo vs Angelo Morejon Set for Italian Title]]></news:title>
     </news:news>
   </url>
@@ -609,7 +549,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Murad Khalidov and Arslan Yallyev Ready for Russian Showdown]]></news:title>
     </news:news>
   </url>
@@ -621,7 +561,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Murat Gassiev vs Tony Yoka Official For July 11 In Moscow]]></news:title>
     </news:news>
   </url>
@@ -633,7 +573,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Frank Sanchez Knocks Out Richard Torrez Jr in Round 2 of IBF Shot]]></news:title>
     </news:news>
   </url>
@@ -645,7 +585,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Filip Hrgovic Stops Dave Allen in Round 3 in Doncaster]]></news:title>
     </news:news>
   </url>
@@ -657,7 +597,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Dave Allen vs Filip Hrgovic: Dangerous Atmosphere in Doncaster]]></news:title>
     </news:news>
   </url>
@@ -669,7 +609,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Daniel Dubois Stops Fabio Wardley in Brutal War to Claim WBO Title]]></news:title>
     </news:news>
   </url>
@@ -681,7 +621,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov Stops Agron Smakici But Fails To Ignite Buzz]]></news:title>
     </news:news>
   </url>
@@ -693,7 +633,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Moses Itauma Suddenly Feels Like a Massive Fight]]></news:title>
     </news:news>
   </url>
@@ -705,7 +645,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Gurgen Hovhannisyan vs Uila Mau’u Set For July 11 In San Francisco]]></news:title>
     </news:news>
   </url>
@@ -717,7 +657,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley vs Daniel Dubois Preview: WBO Heavyweight Title Fight ]]></news:title>
     </news:news>
   </url>
@@ -729,7 +669,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Bakhodir Jalolov vs Agron Smakici Undercard Fight May 9]]></news:title>
     </news:news>
   </url>
@@ -741,7 +681,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Anthony Joshua vs Kristian Prenga Set for July 25 in Jeddah]]></news:title>
     </news:news>
   </url>
@@ -753,7 +693,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller Defeats Lenier Pero in WBA Eliminator Bout]]></news:title>
     </news:news>
   </url>
@@ -789,7 +729,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Richard Riakporhe Stops Jeamie Tshikeva in Five Rounds in London]]></news:title>
     </news:news>
   </url>
@@ -801,7 +741,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Fury vs Makhmudov Result: Fury Wins by Unanimous Decision]]></news:title>
     </news:news>
   </url>
@@ -813,7 +753,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Tyson Fury vs Arslanbek Makhmudov Preview & Prediction]]></news:title>
     </news:news>
   </url>
@@ -825,7 +765,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder Edges Derek Chisora by Split Decision]]></news:title>
     </news:news>
   </url>
@@ -837,7 +777,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Derek Chisora vs Deontay Wilder Preview: At the Heavyweight Crossroads]]></news:title>
     </news:news>
   </url>
@@ -849,20 +789,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Gurgen Hovhannisyan Stops Cesar Navarro in Round 5 for a TKO Win]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/moses-itauma-stops-jermaine-franklin-round-5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Moses Itauma Stops Jermaine Franklin in Round 5 in Manchester, UK]]></news:title>
     </news:news>
   </url>
 
@@ -885,7 +813,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jared Anderson vs Solomon Dacres Set for UK Debut on May 9th]]></news:title>
     </news:news>
   </url>
@@ -897,7 +825,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jared Anderson Joins Queensberry Heavyweight Stable]]></news:title>
     </news:news>
   </url>
@@ -909,7 +837,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Is Moses Itauma the Future of Heavyweight Boxing Today]]></news:title>
     </news:news>
   </url>
@@ -921,7 +849,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller vs Lenier Pero Set For WBA Heavyweight Eliminator ]]></news:title>
     </news:news>
   </url>
@@ -933,7 +861,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Frank Warren Blasts Oleksandr Usyk for Ducking Heavyweight Contenders]]></news:title>
     </news:news>
   </url>
@@ -945,20 +873,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Fabio Wardley and Moses Itauma Lead British Surge After BBBofC Awards]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/wbc-flip-flop-usyk-kickboxer-fight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[WBC's Shocking U-Turn: Usyk vs kickboxer Now for Full Title]]></news:title>
     </news:news>
   </url>
 
@@ -969,7 +885,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T13:24:14.179Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Justis Huni vs Frazer Clarke Heavyweight Preview on Fury vs Makhmudov ]]></news:title>
     </news:news>
   </url>
@@ -981,7 +897,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-09T13:27:40.443Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Richard Riakporhe vs Jeamie Tshikeva British Heavyweight Title]]></news:title>
     </news:news>
   </url>
@@ -993,7 +909,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Lawrence Okolie vs Tony Yoka Set for Paris Clash for WBC Silver]]></news:title>
     </news:news>
   </url>
@@ -1005,20 +921,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Frank Warren Threatens $1B Lawsuit Over Zuffa Boxing]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/top-10-boxing-games-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Top 10 Greatest Boxing Video Games of All Time Ranked]]></news:title>
     </news:news>
   </url>
 
@@ -1029,7 +933,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Frank Sanchez vs Richard Torrez Jr Set for IBF Heavyweight Eliminator ]]></news:title>
     </news:news>
   </url>
@@ -1041,7 +945,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba Stops Charles Martin in in round 4 in Las Vagas]]></news:title>
     </news:news>
   </url>
@@ -1065,7 +969,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Wardley vs Dubois Set for All-British WBO Heavyweight Clash in UK]]></news:title>
     </news:news>
   </url>
@@ -1077,7 +981,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Sardius Simmons: Flint Prospect Carries Momentum Into Feb. 10 bout]]></news:title>
     </news:news>
   </url>
@@ -1089,7 +993,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller Edges Kingsley Ibeh by Split Decision at MSG]]></news:title>
     </news:news>
   </url>
@@ -1101,7 +1005,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Deontay Wilder vs Derek Chisora Set for April 4 in London]]></news:title>
     </news:news>
   </url>
@@ -1113,7 +1017,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Murad Khalidov Defeats Jose Larduet Over Ten Rounds]]></news:title>
     </news:news>
   </url>
@@ -1125,7 +1029,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Efe Ajagba vs Charles Martin Set for February 15 in Las Vegas]]></news:title>
     </news:news>
   </url>
@@ -1137,7 +1041,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Tyson Fury Returns vs Arslanbek Makhmudov on April 11]]></news:title>
     </news:news>
   </url>
@@ -1149,7 +1053,7 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Jarrell Miller vs Kingsley Ibeh Preview & Analysis (2026)]]></news:title>
     </news:news>
   </url>
@@ -1161,20 +1065,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
+      <news:publication_date>2026-10-10T15:18:38.616Z</news:publication_date>
       <news:title><![CDATA[Agit Kabayel Stops Damian Knyba in Three Rounds in Oberhausen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/agit-kabayel-vs-damian-knyba-fight-week-preview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T02:46:55.508Z</news:publication_date>
-      <news:title><![CDATA[Agit Kabayel vs Damian Knyba: Fight-Week Stakes and Scenarios]]></news:title>
     </news:news>
   </url>
 </urlset>
