@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-hemi-ahio-melbourne-november-18</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T22:36:06.298Z</news:publication_date>
+      <news:title><![CDATA[Teremoana Teremoana vs Hemi Ahio Set for November 18]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/news/mourad-aliev-umut-camkiran-istanbul-wbc-silver-november-7</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T13:15:40.455Z</news:publication_date>
+      <news:publication_date>2026-10-14T12:35:01.508Z</news:publication_date>
       <news:title><![CDATA[Mourad Aliev vs Umut Camkiran: WBC Silver Fight in Istanbul]]></news:title>
     </news:news>
   </url>
@@ -21,20 +33,8 @@
         <news:name>Heavyweight Boxing</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T12:24:10.185Z</news:publication_date>
+      <news:publication_date>2026-10-14T12:06:37.873Z</news:publication_date>
       <news:title><![CDATA[Jersey Joe Walcott: From Poverty to Heavyweight Champion at 37]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/news/david-adeleye-alexander-flores-matchroom-debut-november-14</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:24:10.224Z</news:publication_date>
-      <news:title><![CDATA[David Adeleye vs Alexander Flores Set for November 14]]></news:title>
     </news:news>
   </url>
 </urlset>
