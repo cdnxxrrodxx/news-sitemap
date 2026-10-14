@@ -44,7 +44,7 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
 
     return `
   <url>
-    <loc>${SITE_BASE_URL}/news/${slug}</loc>
+    <loc>${SITE_BASE_URL}/post/${slug}</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
