@@ -27,15 +27,20 @@ const SITE_BASE_URL = "https://www.heavyweightboxing.com";
   const now = Date.now();
   const cutoff = now - 1000 * 60 * 60 * 48; // 48 hours
 
-  const recentItems = items.filter(item => {
-    const published = new Date(item.lastPublished || item.createdOn);
-    return published.getTime() > cutoff;
-  });
+  const recentItems = items.map(item => {
+    const pubDate = item.fieldData?.["custom-published-date"];
+    const publishedAt = Date.parse(pubDate);
 
-  const xmlItems = recentItems.map(item => {
+    if (!pubDate || Number.isNaN(publishedAt)) {
+      throw new Error(`Missing or invalid custom published date for Webflow item ${item.id}`);
+    }
+
+    return { item, pubDate, publishedAt };
+  }).filter(({ publishedAt }) => publishedAt > cutoff);
+
+  const xmlItems = recentItems.map(({ item, pubDate }) => {
     const slug = item.fieldData?.slug || "undefined";
     const title = item.fieldData?.["google-title"] || item.fieldData?.name || "Untitled Article";
-    const pubDate = item.lastPublished || item.createdOn;
 
     return `
   <url>
