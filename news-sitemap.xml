@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/teremoana-teremoana-hemi-ahio-melbourne-november-18</loc>
+    <loc>https://www.heavyweightboxing.com/post/teremoana-teremoana-hemi-ahio-melbourne-november-18</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
@@ -15,7 +15,7 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/mourad-aliev-umut-camkiran-istanbul-wbc-silver-november-7</loc>
+    <loc>https://www.heavyweightboxing.com/post/mourad-aliev-umut-camkiran-istanbul-wbc-silver-november-7</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
@@ -27,7 +27,7 @@
   </url>
 
   <url>
-    <loc>https://www.heavyweightboxing.com/news/jersey-joe-walcott-story-heavyweight-champion-at-37</loc>
+    <loc>https://www.heavyweightboxing.com/post/jersey-joe-walcott-story-heavyweight-champion-at-37</loc>
     <news:news>
       <news:publication>
         <news:name>Heavyweight Boxing</news:name>
