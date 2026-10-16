@@ -6,28 +6,55 @@ const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
 const SITE_BASE_URL = "https://www.heavyweightboxing.com";
 
 (async () => {
-  const response = await fetch(`https://api.webflow.com/v2/collections/${COLLECTION_ID}/items?limit=100`, {
-    headers: {
-      "Authorization": `Bearer ${WEBFLOW_API_TOKEN}`,
-      "Accept": "application/json"
+  const items = [];
+  const limit = 100;
+  let offset = 0;
+
+  while (true) {
+    const response = await fetch(
+      `https://api.webflow.com/v2/collections/${COLLECTION_ID}/items/live?limit=${limit}&offset=${offset}`,
+      {
+        headers: {
+          "Authorization": `Bearer ${WEBFLOW_API_TOKEN}`,
+          "Accept": "application/json"
+        }
+      }
+    );
+
+    const resJson = await response.json();
+
+    if (!response.ok) {
+      throw new Error(`Webflow API request failed with status ${response.status}: ${JSON.stringify(resJson)}`);
     }
-  });
 
-  const resJson = await response.json();
-  console.log("Status Code:", response.status);
-  console.log("Response:", JSON.stringify(resJson, null, 2));
+    if (!Array.isArray(resJson.items)) {
+      throw new Error("No items array returned from Webflow API.");
+    }
 
-  const items = resJson.items;
+    items.push(...resJson.items);
 
-  if (!items || !Array.isArray(items)) {
-    console.error("❌ No items array returned from Webflow API. Exiting.");
-    process.exit(1);
+    const total = resJson.pagination?.total;
+    console.log(`Fetched ${items.length}${Number.isFinite(total) ? ` of ${total}` : ""} live Webflow items.`);
+
+    if (
+      resJson.items.length === 0 ||
+      (Number.isFinite(total) && items.length >= total) ||
+      (!Number.isFinite(total) && resJson.items.length < limit)
+    ) {
+      break;
+    }
+
+    offset += resJson.items.length;
   }
 
   const now = Date.now();
   const cutoff = now - 1000 * 60 * 60 * 48; // 48 hours
 
-  const recentItems = items.map(item => {
+  const recentItems = items.filter(item => (
+    !item.isDraft &&
+    !item.isArchived &&
+    item.fieldData?.["shareable-draft"] !== true
+  )).map(item => {
     const pubDate = item.fieldData?.["custom-published-date"];
     const publishedAt = Date.parse(pubDate);
 
