@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/post/moses-itauma-hrgovic-defeat-january-comeback</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T13:51:02.449Z</news:publication_date>
+      <news:title><![CDATA[Moses Itauma Reflects on Hrgovic Loss, January Return Planned]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/post/teremoana-teremoana-hemi-ahio-melbourne-november-18</loc>
     <news:news>
       <news:publication>
@@ -11,30 +23,6 @@
       </news:publication>
       <news:publication_date>2026-10-14T22:36:06.298Z</news:publication_date>
       <news:title><![CDATA[Teremoana Teremoana vs Hemi Ahio Set for November 18]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/post/mourad-aliev-umut-camkiran-istanbul-wbc-silver-november-7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:35:01.508Z</news:publication_date>
-      <news:title><![CDATA[Mourad Aliev vs Umut Camkiran: WBC Silver Fight in Istanbul]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/post/jersey-joe-walcott-story-heavyweight-champion-at-37</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:06:37.873Z</news:publication_date>
-      <news:title><![CDATA[Jersey Joe Walcott: From Poverty to Heavyweight Champion at 37]]></news:title>
     </news:news>
   </url>
 </urlset>
