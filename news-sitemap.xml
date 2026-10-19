@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/post/denis-boytsov-dies-aged-40</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T02:40:00.000Z</news:publication_date>
+      <news:title><![CDATA[Denis Boytsov Dies at 40 | Heavyweight Boxing Tribute]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/post/bakhodir-jalolov-solomon-dacres-fight-report</loc>
     <news:news>
       <news:publication>
