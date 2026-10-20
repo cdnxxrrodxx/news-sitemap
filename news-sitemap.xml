@@ -13,28 +13,4 @@
       <news:title><![CDATA[Denis Boytsov Dies at 40 | Heavyweight Boxing Tribute]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/post/bakhodir-jalolov-solomon-dacres-fight-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:50:12.000Z</news:publication_date>
-      <news:title><![CDATA[Bakhodir Jalolov Drops Solomon Dacres in Wide Decision Win]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.heavyweightboxing.com/post/daniel-dubois-fabio-wardley-2-fight-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T21:54:27.000Z</news:publication_date>
-      <news:title><![CDATA[Daniel Dubois Stops Fabio Wardley in Round Two, Retains WBO Title]]></news:title>
-    </news:news>
-  </url>
 </urlset>
