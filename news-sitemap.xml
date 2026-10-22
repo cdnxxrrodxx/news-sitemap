@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.heavyweightboxing.com/post/alexis-barriere-stan-surmacz-tko4-montreal-fight-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T03:43:02.316Z</news:publication_date>
+      <news:title><![CDATA[Alexis Barrière Stops Stan Surmacz in Four in Montréal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.heavyweightboxing.com/post/gustavo-trujillo-donald-haynesworth-tko2-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Heavyweight Boxing</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T03:32:57.514Z</news:publication_date>
+      <news:title><![CDATA[Gustavo Trujillo Stops Donald Haynesworth in Two Rounds]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.heavyweightboxing.com/post/pryce-taylor-tsotne-rogava-nabf-title-albuquerque</loc>
     <news:news>
       <news:publication>
