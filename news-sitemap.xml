@@ -3,18 +3,6 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.heavyweightboxing.com/post/jai-opetaia-reportedly-withdraws-deontay-wilder-fight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Heavyweight Boxing</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:40:00.000Z</news:publication_date>
-      <news:title><![CDATA[Deontay Wilder Seeks New Opponent After Opetaia Injury]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.heavyweightboxing.com/post/teremoana-teremoana-hemi-ahio-melbourne-november-18</loc>
     <news:news>
       <news:publication>
